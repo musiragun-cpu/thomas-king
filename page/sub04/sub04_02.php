@@ -17,7 +17,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab01 tabItems tabActive">
             <div class="w-full mt-20">
-                <img src="/img/sub04_01_03.png" alt="">
+                <img src="../../img/sub04_01_03.png" alt="">
                 <p class="text-center text-xl mt-8 mb-20"><b>㈜한미유압기계</b>는 지역경제 활성화와 일자리 창출에 기여하는 지역혁신거점기업으로서, 모든 경영활동에서 인간의 존엄과 사회적 가치 실현을 추구합니다. <br class="dt_on">
                     이를 위해 근로자의 참여 및 협의를 통해 인권경영시스템을 정기적으로 점검하며, 관련 법규를 준수하고 이해관계자 등 그 밖의 요구사항을 수용하여 <br class="dt_on">
                     인권경영목표 달성하기 위해 지속적으로 개선 및 노력합니다.
@@ -59,7 +59,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab02 tabItems">
             <div class="w-full mt-20">
-                <img src="/img/sub04_01_04.png" alt="">
+                <img src="../../img/sub04_01_04.png" alt="">
                 <p class="text-center text-xl mt-8 mb-20"><b>㈜한미유압기계</b>는 윤리경영의 시대적 당위성을 인식하여 윤리적· 합법적으로 직무를 수행하고 공정한 거래 질서를 확립하며, <br class="dt_on">
                     사회 적 책임을 완수하는 투명하고 깨끗한 기업문화를 지향하겠습니다.
                 </p>
@@ -112,7 +112,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab03 tabItems">
             <div class="w-full mt-20">
-                <img src="/img/sub04_01_01.png" alt="">
+                <img src="../../img/sub04_01_01.png" alt="">
                 <p class="text-center text-xl mt-8 mb-20"><b>㈜한미유압기계</b>는 지속 가능한 미래를 위해 환경경영을 최우선으로 합니다. <br class="dt_on">
                     더 나은 세상을 만들기 위해 끊임없이 노력하겠습니다.
                 </p>
@@ -124,7 +124,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab04 tabItems">
             <div class="w-full mt-20">
-                <img src="/img/sub04_01_02.png" alt="">
+                <img src="../../img/sub04_01_02.png" alt="">
                 <p class="text-center text-xl mt-8 mb-20"><b>㈜한미유압기계</b>는 “안전·보건·환경”이 기업경영의 최우선임을 깊이 인식하여 사회적 책임을 다하며, 인권존중 및 환경중시로 안전한 작업, 건강한 구성원, <br> 친환경 사업장 구축을 위하여, 제품설계에서 제조, 판매 및 A/S까지 전 공정에 적합한 HSE 경영시스템을 실천합니다.
                 
 

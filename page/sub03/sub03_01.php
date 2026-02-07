@@ -39,7 +39,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
             </div>
             <div class="flex flex-wrap lg:flex-nowrap gap-12 mt-12">
-                <img src="/img/product03.jpg" alt="" class="block lg:w-1/5 w-1/2 mx-auto object-cover">
+                <img src="../../img/product03.jpg" alt="" class="block lg:w-1/5 w-1/2 mx-auto object-cover">
                 <div class="w-full">
                     <!-- SelectBox -->
                     <div class="mb-4 relative max-w-md ">

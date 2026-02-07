@@ -51,7 +51,7 @@ include_once(G5_PATH . '/head.php');
             <h2 class=" text-center mt-20 text-4xl font-semibold">크롬 몰리브덴강</h2>
 
             <div class="flex flex-wrap lg:flex-nowrap gap-12 mt-12">
-                <img src="/img/product02.jpg" alt="" class="block lg:w-1/5 w-1/2 mx-auto object-cover">
+                <img src="../../img/product02.jpg" alt="" class="block lg:w-1/5 w-1/2 mx-auto object-cover">
                 <div class="w-full">
                     <!-- SelectBox -->
                     <div class="mb-4 relative max-w-md ">
@@ -236,7 +236,7 @@ include_once(G5_PATH . '/head.php');
         <div data-tab="tab02" class="tab02 tabItems ">
             <h2 class=" text-center mt-20 text-4xl font-semibold">니켈크롬 몰리브덴강</h2>
             <div class="flex flex-wrap lg:flex-nowrap gap-12 mt-12">
-                <img src="/img/product01.jpg" alt="" class="block lg:w-1/5 w-1/2 mx-auto object-cover">
+                <img src="../../img/product01.jpg" alt="" class="block lg:w-1/5 w-1/2 mx-auto object-cover">
                 <div class="w-full">
                     <!-- SelectBox -->
                     <div class="mb-4 relative max-w-md ">

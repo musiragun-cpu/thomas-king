@@ -14,7 +14,7 @@ include_once(G5_PATH . '/head.php');
         <!-- 첫 번째 섹션 -->
         <div class="flex flex-col md:flex-row mb-12 mt-16 md:gap-16">
             <div class="md:w-1/2">
-                <img src="/img/img04_01_01.png" alt="Passion Image" class="w-full rounded-lg">
+                <img src="../../img/img04_01_01.png" alt="Passion Image" class="w-full rounded-lg">
             </div>
             <div class="md:w-1/2 flex items-center md:justify-center">
                 <div class="p-8">
