@@ -54,7 +54,7 @@ include_once(G5_PATH . '/head.php');
             <h4 class="text-xl font-bold mb-4 border-b-2 border-orange-500 pb-2">서비스 개요</h4>
             <p class="leading-relaxed text-gray-700">
                 창업지원사업 컨설팅은 예비창업자 및 초기창업자(7년 이내)를 대상으로 정부 및 지자체 창업지원사업 선정을 위한
-                전문 컨설팅을 제공합니다. 사업계획서 작성부터 발표 코칭, 사후관리까지 창업의 전 과정을 체계적으로 지원하여
+                전문 컨설팅을 제공합니다. 사업계획서 작성 코칭부터 발표 코칭, 사후관리까지 창업의 전 과정을 체계적으로 지원하여
                 창업 성공률을 높이고, 지속 가능한 비즈니스 모델 구축을 돕습니다.
             </p>
         </div>
@@ -118,13 +118,13 @@ include_once(G5_PATH . '/head.php');
                 <div class="step_box bg-orange-100 border-orange-500">
                     <span class="step_num bg-orange-500">STEP 3</span>
                     <p class="step_title">사업계획서</p>
-                    <p class="step_desc">사업계획서 작성<br>증빙자료 준비</p>
+                    <p class="step_desc">작성 코칭 및 자문<br>증빙자료 준비</p>
                 </div>
                 <div class="step_arrow text-orange-500">→</div>
                 <div class="step_box bg-orange-100 border-orange-500">
                     <span class="step_num bg-orange-500">STEP 4</span>
                     <p class="step_title">발표 코칭</p>
-                    <p class="step_desc">PT 자료 작성<br>발표 리허설</p>
+                    <p class="step_desc">PT 자료 자문<br>발표 리허설</p>
                 </div>
                 <div class="step_arrow text-orange-500">→</div>
                 <div class="step_box bg-orange-100 border-orange-500">
@@ -145,8 +145,8 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="text-center p-4 border rounded-lg">
                     <div class="text-3xl mb-2">📝</div>
-                    <h5 class="font-bold">사업계획서 작성</h5>
-                    <p class="text-sm text-gray-600">전문가 1:1 밀착 컨설팅</p>
+                    <h5 class="font-bold">사업계획서 작성 코칭</h5>
+                    <p class="text-sm text-gray-600">전문가 1:1 작성 자문</p>
                 </div>
                 <div class="text-center p-4 border rounded-lg">
                     <div class="text-3xl mb-2">🎯</div>
@@ -179,13 +179,13 @@ include_once(G5_PATH . '/head.php');
                     </tr>
                     <tr>
                         <td class="border p-3 text-center font-bold">3단계</td>
-                        <td class="border p-3">사업계획서 작성 및 검토</td>
-                        <td class="border p-3">사업계획서</td>
+                        <td class="border p-3">사업계획서 작성 코칭 및 검토 자문</td>
+                        <td class="border p-3">검토의견서</td>
                     </tr>
                     <tr class="bg-gray-50">
                         <td class="border p-3 text-center font-bold">4단계</td>
-                        <td class="border p-3">발표자료 작성 및 발표 코칭</td>
-                        <td class="border p-3">PT 자료, 예상 Q&A</td>
+                        <td class="border p-3">발표자료 검토 자문 및 발표 코칭</td>
+                        <td class="border p-3">검토의견서, 예상 Q&A</td>
                     </tr>
                     <tr>
                         <td class="border p-3 text-center font-bold">5단계</td>
