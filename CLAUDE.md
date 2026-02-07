@@ -18,7 +18,8 @@
 │   ├── sub01/            # 회사소개
 │   ├── sub02/            # 컨설팅 서비스 ★
 │   ├── sub03/            # 지원사업 안내
-│   └── sub04/            # 고객지원
+│   ├── sub04/            # 고객지원
+│   └── sub05/            # 기타
 ├── common.php            # 공통 설정
 ├── head.php / tail.php   # 헤더/푸터
 └── index.php             # 메인 페이지
@@ -179,10 +180,18 @@ git pull
 | sub05 | sub05_02.php | 1개 |
 | skin/board | resume, gallery, custom_gallery, program | 4개 |
 
-**불필요한 파일 삭제 (15개, 57,789줄)**
+**불필요한 파일 삭제 (23개, 58,658줄)**
+
+*1차 삭제 (sub01, 15개, 57,789줄)*
 - sub01_02a.php ~ sub01_02n.php (13개): 유니드경산병원 템플릿
 - sub01_02b.php: 병원 템플릿
 - suv01_02m.php: 파일명 오타
+
+*2차 삭제 (sub00/sub02, 8개, 869줄)*
+- page/sub00/ 폴더 전체 (5개, 603줄): 병원 템플릿
+  - sub00_01.php, sub00_02.php, sub00_03.php, sub00_04.php, sub00_05.php
+- page/sub02/ 백업 파일 (3개, 266줄):
+  - sub02_02_backup.php, sub02_03_backup.php, sub02_04_backup.php
 
 ### 이전 작업
 - sub02_01 ~ sub02_04 이미지 경로 통일 (절대→상대)
