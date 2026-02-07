@@ -388,8 +388,8 @@ include_once(G5_PATH . '/head.php');
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
                                 <span class="stepBox">STEP 3</span>
-                                <p style="font-weight: 700;">계획서 작성</p>
-                                사업계획서 초안 작성
+                                <p style="font-weight: 700;">계획서 작성 지도</p>
+                                사업계획서 초안 작성 지도
                             </li>
                             <span style="align-items: center; display:flex">
                                 <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -410,7 +410,7 @@ include_once(G5_PATH . '/head.php');
                         <p class="text-2xl text-black whitespace-pre-line font-bold">1. 투자유치 성공률 향상</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">투자자 관점의 논리적이고 설득력 있는 사업계획서</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">2. 정책자금 선정률 제고</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">평가 기준에 맞춘 체계적인 사업계획서 작성</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">평가 기준에 맞춘 체계적인 사업계획서 작성 지도</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">3. 사업 리스크 최소화</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">철저한 사전 분석을 통한 실패 위험 감소</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">4. 경영 방향성 명확화</p>
@@ -454,7 +454,7 @@ include_once(G5_PATH . '/head.php');
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
                                 <span class="stepBox">STEP 4</span>
                                 <p style="font-weight: 700;">발표 코칭</p>
-                                IR/PT 자료 작성<br>발표 연습 지원
+                                IR/PT 자료 작성 지도<br>발표 연습 지원
                             </li>
                         </ul>
                     </div>
