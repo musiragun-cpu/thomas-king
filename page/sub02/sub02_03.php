@@ -42,7 +42,7 @@ include_once(G5_PATH . '/head.php');
     <div class="tab01 tabItems tabActive">
         <div class="tab_header my-24">
             <div class="flex items-center gap-8">
-                <img src="/img/startup_logo.svg" alt="창업지원사업" class="w-32 h-32">
+                <img src="../../img/startup_logo.svg" alt="창업지원사업" class="w-32 h-32">
                 <div>
                     <h3 class="text-3xl font-bold text-orange-600">창업지원사업</h3>
                     <p class="text-gray-600 mt-2">예비창업자부터 초기창업자까지 성공적인 창업을 위한 종합 지원</p>
@@ -201,7 +201,7 @@ include_once(G5_PATH . '/head.php');
     <div class="tab02 tabItems">
         <div class="tab_header my-24">
             <div class="flex items-center gap-8">
-                <img src="/img/small_biz_logo.svg" alt="소상공인 경영개선" class="w-32 h-32">
+                <img src="../../img/small_biz_logo.svg" alt="소상공인 경영개선" class="w-32 h-32">
                 <div>
                     <h3 class="text-3xl font-bold text-green-600">소상공인 경영개선</h3>
                     <p class="text-gray-600 mt-2">소상공인의 경쟁력 강화와 지속 성장을 위한 맞춤형 경영 컨설팅</p>
@@ -360,7 +360,7 @@ include_once(G5_PATH . '/head.php');
     <div class="tab03 tabItems">
         <div class="tab_header my-24">
             <div class="flex items-center gap-8">
-                <img src="/img/policy_fund_logo.svg" alt="정책자금 연계" class="w-32 h-32">
+                <img src="../../img/policy_fund_logo.svg" alt="정책자금 연계" class="w-32 h-32">
                 <div>
                     <h3 class="text-3xl font-bold text-blue-600">정책자금 연계</h3>
                     <p class="text-gray-600 mt-2">중소기업 및 소상공인을 위한 정부 정책자금 신청 및 연계 지원</p>
@@ -519,7 +519,7 @@ include_once(G5_PATH . '/head.php');
     <div class="tab04 tabItems">
         <div class="tab_header my-24">
             <div class="flex items-center gap-8">
-                <img src="/img/biz_transform_logo.svg" alt="사업전환 컨설팅" class="w-32 h-32">
+                <img src="../../img/biz_transform_logo.svg" alt="사업전환 컨설팅" class="w-32 h-32">
                 <div>
                     <h3 class="text-3xl font-bold text-purple-600">사업전환 컨설팅</h3>
                     <p class="text-gray-600 mt-2">위기 극복과 새로운 성장을 위한 사업 재편 및 전환 지원</p>
