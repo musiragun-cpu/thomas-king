@@ -18,7 +18,7 @@ include_once(G5_PATH . '/head.php');
             <!-- 대표이사 2명 -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col md:flex-row items-center">
-                    <img src="/img/consultant_kim_tae_han.jpg" onerror="this.src='/img/profile.jpg'" alt="김태한"
+                    <img src="../../img/consultant_kim_tae_han.jpg" onerror="this.src='../../img/profile.jpg'" alt="김태한"
                         class="w-24 h-24 mb-4 md:mb-0 md:mr-6 object-cover rounded-full border border-gray-200">
                     <div>
                         <h2 class="text-xl font-bold">김태한</h2>
@@ -28,7 +28,7 @@ include_once(G5_PATH . '/head.php');
                     </div>
                 </div>
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col md:flex-row items-center">
-                    <img src="/img/consultant_kwon_oh_sung.jpg" onerror="this.src='/img/profile.jpg'" alt="권오성"
+                    <img src="../../img/consultant_kwon_oh_sung.jpg" onerror="this.src='../../img/profile.jpg'" alt="권오성"
                         class="w-24 h-24 mb-4 md:mb-0 md:mr-6 object-cover rounded-full border border-gray-200">
                     <div>
                         <h2 class="text-xl font-bold">권오성</h2>
@@ -55,7 +55,7 @@ include_once(G5_PATH . '/head.php');
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- 개별 카드 -->
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_kim_young_gu.jpg" onerror="this.src='/img/profile.jpg'" alt="김영구"
+                    <img src="../../img/consultant_kim_young_gu.jpg" onerror="this.src='../../img/profile.jpg'" alt="김영구"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">김영구</h2>
                     <p class="text-blue-600 font-semibold">원장</p>
@@ -64,7 +64,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_kim_byung_in.jpg" onerror="this.src='/img/profile.jpg'" alt="김병인"
+                    <img src="../../img/consultant_kim_byung_in.jpg" onerror="this.src='../../img/profile.jpg'" alt="김병인"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">김병인</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -73,7 +73,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_kim_gwang_yong.jpg" onerror="this.src='/img/profile.jpg'" alt="김광용"
+                    <img src="../../img/consultant_kim_gwang_yong.jpg" onerror="this.src='../../img/profile.jpg'" alt="김광용"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">김광용</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -82,7 +82,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_kim_tae_won.jpg" onerror="this.src='/img/profile.jpg'" alt="김태원"
+                    <img src="../../img/consultant_kim_tae_won.jpg" onerror="this.src='../../img/profile.jpg'" alt="김태원"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">김태원</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -91,7 +91,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_jo_kyung_hwa.jpg" onerror="this.src='/img/profile.jpg'" alt="조경화"
+                    <img src="../../img/consultant_jo_kyung_hwa.jpg" onerror="this.src='../../img/profile.jpg'" alt="조경화"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">조경화</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -100,7 +100,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_kim_tae_ho.jpg" onerror="this.src='/img/profile.jpg'" alt="김태호"
+                    <img src="../../img/consultant_kim_tae_ho.jpg" onerror="this.src='../../img/profile.jpg'" alt="김태호"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">김태호</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -108,7 +108,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_nam_ji_woo.jpg" onerror="this.src='/img/profile.jpg'" alt="남지우"
+                    <img src="../../img/consultant_nam_ji_woo.jpg" onerror="this.src='../../img/profile.jpg'" alt="남지우"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">남지우</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -116,7 +116,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_lee_ho_rim.jpg" onerror="this.src='/img/profile.jpg'" alt="이호림"
+                    <img src="../../img/consultant_lee_ho_rim.jpg" onerror="this.src='../../img/profile.jpg'" alt="이호림"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">이호림</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -124,7 +124,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_gong_young_dal.jpg" onerror="this.src='/img/profile.jpg'" alt="공영달"
+                    <img src="../../img/consultant_gong_young_dal.jpg" onerror="this.src='../../img/profile.jpg'" alt="공영달"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">공영달</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
@@ -132,7 +132,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
 
                 <div class="bg-white p-6 shadow-md rounded-lg flex flex-col items-center">
-                    <img src="/img/consultant_seo_kyung_gyu.jpg" onerror="this.src='/img/profile.jpg'" alt="서경규"
+                    <img src="../../img/consultant_seo_kyung_gyu.jpg" onerror="this.src='../../img/profile.jpg'" alt="서경규"
                         class="w-24 h-24 mb-4 object-cover rounded-full border border-gray-200">
                     <h2 class="text-xl font-bold">서경규</h2>
                     <p class="text-blue-600 font-semibold">수석</p>
