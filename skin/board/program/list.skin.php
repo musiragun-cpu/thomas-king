@@ -72,7 +72,7 @@ $current_data = isset($category_data[$current_category]) ? $category_data[$curre
             
             <h1><?php echo $current_data['title']; ?></h1>
             <p><?php echo $current_data['description']; ?></p>
-            <img src="/img/<?php echo $current_data['image']; ?>" alt="<?php echo $current_category; ?>" style="max-width:100%; height:auto;">
+            <img src="../../../img/<?php echo $current_data['image']; ?>" alt="<?php echo $current_category; ?>" style="max-width:100%; height:auto;">
         <?php else: ?>
             <!-- <p>분류를 선택하세요.</p> -->
         <?php endif; ?>
