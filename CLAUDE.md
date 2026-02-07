@@ -89,6 +89,7 @@ include_once(G5_PATH . '/tail.php');
 - 루트 파일 (index.php): `./img/파일명`
 - 서브 페이지 (page/sub*/): `../../img/파일명`
 - CSS 파일 (css/): `../img/파일명`
+- 스킨 파일 (skin/board/*/): `../../../img/파일명`
 
 ### STEP 박스 UI
 ```html
@@ -156,7 +157,7 @@ git pull
 | sub02_02.php | 사업계획서 작성 → 작성 지도 (4건) |
 | sub02_03.php | 사업계획서 작성 코칭 → 작성 지도 (4건) |
 
-### 2026-02-07 이미지 경로 수정 (총 208개)
+### 2026-02-07 이미지 경로 수정 (총 209개)
 
 **1차 수정 (126개)**
 | 폴더 | 파일 수 | 경로 수정 |
@@ -176,7 +177,7 @@ git pull
 | sub02 | sub02_02_02.php | 6개 |
 | sub02 | sub02_07.php | 64개 |
 | sub05 | sub05_02.php | 1개 |
-| skin/board | resume, gallery, custom_gallery | 3개 |
+| skin/board | resume, gallery, custom_gallery, program | 4개 |
 
 **불필요한 파일 삭제 (15개, 57,789줄)**
 - sub01_02a.php ~ sub01_02n.php (13개): 유니드경산병원 템플릿
