@@ -12,7 +12,7 @@ include_once(G5_PATH . '/head.php');
         <!-- 상단 이미지와 텍스트 섹션 -->
         <div class="flex flex-col md:flex-row items-center mb-12">
             <div class="md:w-1/2">
-                <img src="/img/img01_07_01.png" alt="Factory Image" class="w-full rounded-lg">
+                <img src="../../img/img01_07_01.png" alt="Factory Image" class="w-full rounded-lg">
             </div>
             <div class="md:w-1/2 mt-6 md:mt-0 md:ml-10">
                 <h3 class="text-blue-500 text-xl font-bold mb-2">FACTORY</h3>
@@ -100,11 +100,11 @@ include_once(G5_PATH . '/head.php');
         <div class="tab01 tabItems tabActive">
             <div class="w-full mt-20">
                 <h2 class="mb-4 text-2xl font-bold subtitle01">사무동</h2>
-                <img src="/img/sub01_07_04.png" alt="" class="mb-16">
+                <img src="../../img/sub01_07_04.png" alt="" class="mb-16">
                 <h2 class="mb-4 text-2xl font-bold subtitle01">공장동</h2>
-                <img src="/img/sub01_07_02.png" alt="" class="mb-16">
+                <img src="../../img/sub01_07_02.png" alt="" class="mb-16">
                 <h2 class="mb-4 text-2xl font-bold subtitle01">출고동</h2>
-                <img src="/img/sub01_07_03.png" alt="" class="mb-16">
+                <img src="../../img/sub01_07_03.png" alt="" class="mb-16">
 
             </div>
         </div>
@@ -112,7 +112,7 @@ include_once(G5_PATH . '/head.php');
             <div class="w-full mt-20 flex gap-8">
                 <!-- 첫 번째 카드 -->
                 <div class="w-full md:w-1/2 p-6 rounded-lg text-center ">
-                    <img src="/img/sub01_07_06.png" alt="검사 장비" class=" h-84 object-cover mb-6 rounded-lg mx-auto">
+                    <img src="../../img/sub01_07_06.png" alt="검사 장비" class=" h-84 object-cover mb-6 rounded-lg mx-auto">
                     <h3 class="text-xl font-bold mb-4 text-center">검사 장비</h3>
                     <a href="/page/sub01/sub01_08.php" class="inline-block bg-blue-600 text-white font-bold py-2 px-4 rounded-full hover:bg-blue-700 transition mx-auto">
                         VIEW MORE →
@@ -121,7 +121,7 @@ include_once(G5_PATH . '/head.php');
 
                 <!-- 두 번째 카드 -->
                 <div class="w-full md:w-1/2 p-6 rounded-lg text-center ">
-                    <img src="/img/sub01_07_05.png" alt="가공 장비" class="h-84 object-cover mb-6 rounded-lg mx-auto">
+                    <img src="../../img/sub01_07_05.png" alt="가공 장비" class="h-84 object-cover mb-6 rounded-lg mx-auto">
                     <h3 class="text-xl font-bold mb-4 text-center">가공 장비</h3>
                     <a href="/page/sub01/sub01_09.php" class="inline-block bg-blue-600 text-white font-bold py-2 px-4 rounded-full hover:bg-blue-700 transition mx-auto">
                         VIEW MORE →

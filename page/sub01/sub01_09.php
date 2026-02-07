@@ -10,7 +10,7 @@ include_once(G5_PATH . '/head.php');
 <section class="ppbSpWrap py-10">
     <div class="container mx-auto py-12 grid grid-cols-1 md:grid-cols-2 gap-8">
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_03.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_03.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -52,7 +52,7 @@ include_once(G5_PATH . '/head.php');
         </div>
 
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_04.png" alt="세척기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_04.png" alt="세척기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -93,7 +93,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_05.png" alt="Honing Machine" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_05.png" alt="Honing Machine" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -134,7 +134,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_06.png" alt="진동 연마기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_06.png" alt="진동 연마기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -177,7 +177,7 @@ include_once(G5_PATH . '/head.php');
 
         
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_11.png" alt="CNC" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_11.png" alt="CNC" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -218,7 +218,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_12.png" alt="5축가공기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_12.png" alt="5축가공기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -260,7 +260,7 @@ include_once(G5_PATH . '/head.php');
         </div>
 
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_13.png" alt="CNC" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_13.png" alt="CNC" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -301,7 +301,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_14.png" alt="MCT" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_14.png" alt="MCT" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -342,7 +342,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_15.png" alt="밀링" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_15.png" alt="밀링" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -383,7 +383,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_16.png" alt="범용선반" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_16.png" alt="범용선반" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">

@@ -14,7 +14,7 @@ include_once(G5_PATH . '/head.php');
         <!-- 첫 번째 섹션 -->
         <div class="flex flex-col md:flex-row mb-12 mt-16">
             <div class="md:w-1/2">
-                <img src="/img/img01_06_01.png" alt="Passion Image" class="w-full rounded-lg">
+                <img src="../../img/img01_06_01.png" alt="Passion Image" class="w-full rounded-lg">
             </div>
             <div class="md:w-1/2 flex items-center md:justify-center">
                 <div class="p-6">
@@ -28,7 +28,7 @@ include_once(G5_PATH . '/head.php');
         <!-- 두 번째 섹션 -->
         <div class="flex flex-col md:flex-row mb-12 md:flex-row-reverse">
             <div class="md:w-1/2">
-                <img src="/img/img01_06_02.png" alt="Communication Image" class="w-full rounded-lg">
+                <img src="../../img/img01_06_02.png" alt="Communication Image" class="w-full rounded-lg">
             </div>
             <div class="md:w-1/2 flex items-center md:justify-center">
                 <div class="p-6 md:text-right">
@@ -42,7 +42,7 @@ include_once(G5_PATH . '/head.php');
         <!-- 세 번째 섹션 -->
         <div class="flex flex-col md:flex-row mb-12">
             <div class="md:w-1/2">
-                <img src="/img/img01_06_03.png" alt="Professional Image" class="w-full rounded-lg">
+                <img src="../../img/img01_06_03.png" alt="Professional Image" class="w-full rounded-lg">
             </div>
             <div class="md:w-1/2 flex items-center md:justify-center">
                 <div class="p-6">

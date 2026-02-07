@@ -11,7 +11,7 @@ include_once(G5_PATH . '/head.php');
     <div class="container mx-auto py-12 grid grid-cols-1 md:grid-cols-2 gap-8">
         <!-- 첫 번째 장비 카드 -->
         <div class="bg-white p-6 ">
-            <img src="/img/sub01_08_01.png" alt="검사 장비" class=" h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_01.png" alt="검사 장비" class=" h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -53,7 +53,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6 ">
-            <img src="/img/sub01_08_02.png" alt="검사 장비" class=" h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_02.png" alt="검사 장비" class=" h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -96,7 +96,7 @@ include_once(G5_PATH . '/head.php');
 
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_07.png" alt="로크웰 경도시험기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_07.png" alt="로크웰 경도시험기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -138,7 +138,7 @@ include_once(G5_PATH . '/head.php');
         </div>
 
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_08.png" alt="클램프형 전류계" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_08.png" alt="클램프형 전류계" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -179,7 +179,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_09.png" alt="실린더 게이지" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_09.png" alt="실린더 게이지" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -220,7 +220,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub01_08_10.png" alt="표면거칠기측정기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub01_08_10.png" alt="표면거칠기측정기" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
