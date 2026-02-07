@@ -11,7 +11,7 @@ include_once(G5_PATH . '/head.php');
     <h2 class="text-3xl text-center font-bold">u Parts(Self-Propelled Artillery & Tank)</h2>
     <div class="container mx-auto py-12 grid grid-cols-1 md:grid-cols-2 gap-8">
         <div class="bg-white p-6">
-            <img src="/img/sub_02_02_02_01.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub_02_02_02_01.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -36,7 +36,7 @@ include_once(G5_PATH . '/head.php');
         </div>
 
         <div class="bg-white p-6">
-            <img src="/img/sub_02_02_02_02.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub_02_02_02_02.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -59,7 +59,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub_02_02_02_03.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub_02_02_02_03.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -83,7 +83,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub_02_02_02_04.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub_02_02_02_04.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -107,7 +107,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub_02_02_02_05.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub_02_02_02_05.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">
@@ -131,7 +131,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <div class="bg-white p-6">
-            <img src="/img/sub_02_02_02_06.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
+            <img src="../../img/sub_02_02_02_06.png" alt="가공 장비" class="h-84 object-cover mb-10 rounded-lg mx-auto">
             <div class="tbl_wrap">
                 <table class="min-w-full bg-white border border-gray-200 text-center">
                     <thead class="bg-blue-50">

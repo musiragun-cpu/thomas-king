@@ -16,7 +16,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="/img/egBtn01.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn01.jpg" alt="" onclick="location.href='#tab01'">
             </span>
             <span class="egBtn02">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -24,7 +24,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="/img/egBtn02.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn02.jpg" alt="" onclick="location.href='#tab01'">
             </span>
             <span class="egBtn03">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -32,7 +32,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="/img/egBtn03.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn03.jpg" alt="" onclick="location.href='#tab01'">
             </span>
             <span class="egBtn04">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -40,7 +40,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="/img/egBtn04.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn04.jpg" alt="" onclick="location.href='#tab01'">
             </span>
             <span class="egBtn05">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -48,9 +48,9 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="/img/egBtn05.jpg" alt="">
+                <img src="../../img/egBtn05.jpg" alt="">
             </span>
-            <img src="/img/sub02_01_01.png" alt="" class="mb-16">
+            <img src="../../img/sub02_01_01.png" alt="" class="mb-16">
         </div>
 
         <script>
@@ -83,7 +83,7 @@ include_once(G5_PATH . '/head.php');
             <div class="w-full mt-12">
                 <div class="">
 
-                    <img src="/img/sub02_01_tab01.png" alt="" class="mb-12 mx-auto md:h-96">
+                    <img src="../../img/sub02_01_tab01.png" alt="" class="mb-12 mx-auto md:h-96">
                 </div>
                 <div class="px-16 py-8 mt-0 rounded-md bg-blue-50">
                     <ul class="list-disc text-base font-regular">
@@ -100,7 +100,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_02.png" alt="certificate 2" class="mx-auto rounded w-3/4">
+                        <img src="../../img/sub02_01_02.png" alt="certificate 2" class="mx-auto rounded w-3/4">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -117,7 +117,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_03.png" alt="certificate 2" class="mx-auto rounded w-3/4">
+                        <img src="../../img/sub02_01_03.png" alt="certificate 2" class="mx-auto rounded w-3/4">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -134,7 +134,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_04.png" alt="certificate 2" class="mx-auto rounded w-3/4">
+                        <img src="../../img/sub02_01_04.png" alt="certificate 2" class="mx-auto rounded w-3/4">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -155,7 +155,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_05.png" alt="certificate 2" class="mx-auto rounded w-2/3">
+                        <img src="../../img/sub02_01_05.png" alt="certificate 2" class="mx-auto rounded w-2/3">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -172,7 +172,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_06.png" alt="certificate 2" class="mx-auto rounded w-2/3">
+                        <img src="../../img/sub02_01_06.png" alt="certificate 2" class="mx-auto rounded w-2/3">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -194,7 +194,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_07.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_07.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -211,7 +211,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_08.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_08.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -228,7 +228,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_48.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_48.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -251,7 +251,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab02 tabItems">
             <div class="w-full mt-12">
-                <img src="/img/sub02_01_tab02.png" alt="" class="mb-12 mx-auto md:h-96">
+                <img src="../../img/sub02_01_tab02.png" alt="" class="mb-12 mx-auto md:h-96">
                 <div class="px-16 py-8 mt-12 rounded-md bg-blue-50">
                     <ul class="list-disc text-base font-regular">
                         <li>메인 엔진에 장착 되는 VALVE의 분사 및 누유 등의 테스트를 위한 장치</li>
@@ -263,7 +263,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_09.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_09.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -282,7 +282,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_10.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_10.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -301,7 +301,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_11.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_11.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -320,7 +320,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_12.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_12.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -339,7 +339,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_13.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_13.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -358,7 +358,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_14.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_14.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -383,7 +383,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_15.png" alt="certificate 2" class="mx-auto rounded w-1/2">
+                        <img src="../../img/sub02_01_15.png" alt="certificate 2" class="mx-auto rounded w-1/2">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -402,7 +402,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_16.png" alt="certificate 2" class="mx-auto rounded w-1/2">
+                        <img src="../../img/sub02_01_16.png" alt="certificate 2" class="mx-auto rounded w-1/2">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -427,7 +427,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab03 tabItems">
             <div class="w-full mt-12">
-                <img src="/img/sub02_01_tab03.png" alt="" class="mb-12 mx-auto md:h-96">
+                <img src="../../img/sub02_01_tab03.png" alt="" class="mb-12 mx-auto md:h-96">
                 <div class="px-16 py-8 mt-0 rounded-md bg-blue-50">
                     <ul class="list-disc text-base font-regular">
                         <li>친환경 연료 엔진의 밸브 내부에 씰링 오일을 공급하여 유압 오일과 가스 연료의 혼합을 방지하는 장치
@@ -437,9 +437,9 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <h2 class="mb-4 text-2xl font-bold subtitle01  mt-16">Sealing Oil Unit</h2>
                 <div class=" items-center gap-4 grid-cols-3 md:grid-cols-3 lg:grid-cols-3 grid">
-                    <img src="/img/sub02_01_17.png" alt="certificate 2" class="mx-auto rounded ">
-                    <img src="/img/sub02_01_18.png" alt="certificate 2" class="mx-auto rounded ">
-                    <img src="/img/sub02_01_19.png" alt="certificate 2" class="mx-auto rounded ">
+                    <img src="../../img/sub02_01_17.png" alt="certificate 2" class="mx-auto rounded ">
+                    <img src="../../img/sub02_01_18.png" alt="certificate 2" class="mx-auto rounded ">
+                    <img src="../../img/sub02_01_19.png" alt="certificate 2" class="mx-auto rounded ">
                     </div>
                 <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 p-4">
                     
@@ -506,7 +506,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab04 tabItems">
             <div class="w-full mt-12">
-                <img src="/img/sub02_01_tab04.png" alt="" class="mb-12 mx-auto md:h-96">
+                <img src="../../img/sub02_01_tab04.png" alt="" class="mb-12 mx-auto md:h-96">
                 <div class="px-16 py-8 mt-0 rounded-md bg-blue-50">
                     <ul class="list-disc text-base font-regular">
                         <li>엔진과 선체 사이에 설치되어 메인 엔진에서 발생하는 열팽창과 진동을 감소시키는 장치
@@ -519,7 +519,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_20.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_20.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -539,7 +539,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_21.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_21.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -559,7 +559,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_22.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_22.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -585,7 +585,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_23.png" alt="certificate 2" class="mx-auto rounded w-3/4">
+                        <img src="../../img/sub02_01_23.png" alt="certificate 2" class="mx-auto rounded w-3/4">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -606,7 +606,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_24.png" alt="certificate 2" class="mx-auto rounded w-3/4">
+                        <img src="../../img/sub02_01_24.png" alt="certificate 2" class="mx-auto rounded w-3/4">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -633,7 +633,7 @@ include_once(G5_PATH . '/head.php');
         </div>
         <div class="tab05 tabItems">
             <div class="w-full mt-12">
-                <img src="/img/sub02_01_tab05.png" alt="" class="mb-12 mx-auto md:h-96">
+                <img src="../../img/sub02_01_tab05.png" alt="" class="mb-12 mx-auto md:h-96">
                 <div class="px-16 py-8 mt-0 rounded-md bg-blue-50">
                     <ul class="list-disc text-base font-regular">
                         <li>주요 엔진 부품의 조립 및 분해 시에 사용하는 초고압 툴</li>
@@ -645,7 +645,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
-                        <img src="/img/sub02_01_25.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_25.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -667,7 +667,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_26.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_26.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -686,7 +686,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_27.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_27.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -710,7 +710,7 @@ include_once(G5_PATH . '/head.php');
                 <h2 class="mb-4 text-2xl font-bold subtitle01  mt-16">Air Driven High Pressure Pump-WIN GD</h2>
                 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
                     <div>
-                        <img src="/img/sub02_01_28.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_28.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -729,7 +729,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_29.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_29.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -748,7 +748,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_30.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_30.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -770,7 +770,7 @@ include_once(G5_PATH . '/head.php');
                 <h2 class="mb-4 text-2xl font-bold subtitle01  mt-16">Hand Operated High Pressure Pump</h2>
                 <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-5 p-4">
                     <div>
-                        <img src="/img/sub02_01_31.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_31.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -787,7 +787,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_32.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_32.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -804,7 +804,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_33.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_33.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -821,7 +821,7 @@ include_once(G5_PATH . '/head.php');
                         </div>
                     </div>
                     <div>
-                        <img src="/img/sub02_01_33.png" alt="certificate 2" class="mx-auto rounded ">
+                        <img src="../../img/sub02_01_33.png" alt="certificate 2" class="mx-auto rounded ">
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
@@ -841,10 +841,10 @@ include_once(G5_PATH . '/head.php');
                 <!-- <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="/img/sub02_01_31.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
-                            <img src="/img/sub02_01_32.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
-                            <img src="/img/sub02_01_33.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
-                            <img src="/img/sub02_01_34.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
+                            <img src="../../img/sub02_01_31.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
+                            <img src="../../img/sub02_01_32.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
+                            <img src="../../img/sub02_01_33.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
+                            <img src="../../img/sub02_01_34.png" alt="certificate 2" class="mx-auto rounded w-2/3 md:w-1/4">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
@@ -876,8 +876,8 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="/img/sub02_01_35.png" alt="certificate 2" class="mx-auto rounded w-full md:w-1/2">
-                            <img src="/img/sub02_01_36.png" alt="certificate 2" class="mx-auto rounded w-full md:w-1/2">
+                            <img src="../../img/sub02_01_35.png" alt="certificate 2" class="mx-auto rounded w-full md:w-1/2">
+                            <img src="../../img/sub02_01_36.png" alt="certificate 2" class="mx-auto rounded w-full md:w-1/2">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
@@ -921,9 +921,9 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="/img/sub02_01_37.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="/img/sub02_01_38.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="/img/sub02_01_39.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_37.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_38.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_39.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center mt-6">
@@ -955,9 +955,9 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="/img/sub02_01_40.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="/img/sub02_01_41.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="/img/sub02_01_42.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_40.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_41.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_42.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center mt-6">
@@ -989,9 +989,9 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="/img/sub02_01_43.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="/img/sub02_01_44.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="/img/sub02_01_45.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_43.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_44.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_45.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center mt-6">
@@ -1025,7 +1025,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="/img/sub02_01_46.png" alt="certificate 2" class="mx-auto rounded w-2/3">
+                            <img src="../../img/sub02_01_46.png" alt="certificate 2" class="mx-auto rounded w-2/3">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">

@@ -29,7 +29,7 @@ include_once(G5_PATH . '/head.php');
                 <span class="active">접수 안내</span>
                 <span class="">접수 하기</span>
             </div> -->
-            <img class="tab01 tabItems tabActive" src="/img/sub05_02.png" alt="">
+            <img class="tab01 tabItems tabActive" src="../../img/sub05_02.png" alt="">
         </div>
         <!-- <div class="inner">
         <div class="sub_banner">

@@ -168,7 +168,7 @@ add_stylesheet('<link rel="stylesheet" href="' . $board_skin_url . '/custom.css?
                                             if ($thumb['src']) {
                                                 $img_content = '<img src="' . $thumb['src'] . '" alt="' . $thumb['alt'] . '" >';
                                             } else {
-                                                $img_content = '<span class="no_image"><img src="/img/no_img.png" alt=""></span>';
+                                                $img_content = '<span class="no_image"><img src="../../../img/no_img.png" alt=""></span>';
                                             }
 
                                             echo run_replace('thumb_image_tag', $img_content, $thumb);

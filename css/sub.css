@@ -37,12 +37,12 @@ input::placeholder{color: #aaa !important;}
     position: relative;
     width: calc((100% / 5) - 18px);
     height: 60px;
-    background-image: url('/img/bg/menu_bg.png');
+    background-image: url('../img/bg/menu_bg.png');
     text-align: center;
 }
 
 .doctor_list ul.tabs li:hover {
-    background-image: url('/img/bg/menu_bg2.png');
+    background-image: url('../img/bg/menu_bg2.png');
 }
 
 .doctor_list ul.tabs li a:hover {
@@ -50,7 +50,7 @@ input::placeholder{color: #aaa !important;}
 }
 
 .doctor_list ul.tabs li.active {
-    background-image: url('/img/bg/menu_bg2.png');
+    background-image: url('../img/bg/menu_bg2.png');
 }
 
 .doctor_list ul.tabs li.active a {

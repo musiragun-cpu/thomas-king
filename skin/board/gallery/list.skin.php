@@ -25,7 +25,7 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css">', 0
     </div>
 </div>
 <div class="reser_con">
-    <img src="/img/board03.png" alt="">
+    <img src="../../../img/board03.png" alt="">
 </div>
 <!-- 게시판 목록 시작 { -->
 <div id="bo_gall" class="inner" style="width:<?php echo $width; ?>">
