@@ -18,7 +18,7 @@ if (G5_IS_MOBILE) {
 include_once(G5_PATH . '/head.php');
 ?>
 <section class="introSection">
-    <img src="/img/logo.png" alt="">
+    <img src="./img/logo.png" alt="">
 </section>
 <style>
     .top_navBox {
@@ -87,7 +87,7 @@ include_once(G5_PATH . '/head.php');
                 <div class="swiper swiperType01">
                     <div class="swiper-wrapper" id="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="/img/mainBg01.jpg" alt="">
+                            <img src="./img/mainBg01.jpg" alt="">
 
                             <div class="sectionContainer">
                                 <h2>기업의 가능성을 현실로,<br class="m_on"> <br class="dt_on">
@@ -98,7 +98,7 @@ include_once(G5_PATH . '/head.php');
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <img src="/img/mainBg01.jpg" alt="">
+                            <img src="./img/mainBg01.jpg" alt="">
 
                             <div class="sectionContainer">
                                 <h2>기술과 경영의 조화,<br class="m_on"> <br class="dt_on">
@@ -238,7 +238,7 @@ include_once(G5_PATH . '/head.php');
             </div>
         </div>
         <!-- <div class="sec02img"></div> -->
-        <img src="/img/main_sub.jpg" alt="" class="sec02img">
+        <img src="./img/main_sub.jpg" alt="" class="sec02img">
         <div class="text-white md:px-0 lg:px-0">
             <div class="mx-auto flex flex-col md:flex-row gap-12 flex-wrap">
                 <div class="flex flex-wrap content-start mt-28" data-aos="fade-up" data-aos-duration="1000">
@@ -257,7 +257,7 @@ include_once(G5_PATH . '/head.php');
                 <!-- 첫 번째 카드 -->
                 <div class="text-center" data-aos="fade-up" data-aos-delay="200">
                     <a href="/page/sub02/sub02_01.php">
-                        <img src="/img/main_box01.jpg" alt="정부조달 및 R&D"
+                        <img src="./img/main_box01.jpg" alt="정부조달 및 R&D"
                             class="w-full rounded-xl shadow-md hover:scale-105 transition duration-300">
                     </a>
                     <p class="mt-4 text-gray-800 font-semibold text-xl">정부조달 및 R&D</p>
@@ -270,7 +270,7 @@ include_once(G5_PATH . '/head.php');
                 <!-- 두 번째 카드 -->
                 <div class="text-center relative md:top-8" data-aos="fade-up" data-aos-delay="400">
                     <a href="/page/sub02/sub02_02.php">
-                        <img src="/img/main_box02.jpg" alt="기술·경영"
+                        <img src="./img/main_box02.jpg" alt="기술·경영"
                             class="w-full rounded-xl shadow-md hover:scale-105 transition duration-300">
                     </a>
                     <p class="mt-4 text-gray-800 font-semibold text-xl">기술·경영</p>
@@ -283,7 +283,7 @@ include_once(G5_PATH . '/head.php');
                 <!-- 세 번째 카드 -->
                 <div class="text-center" data-aos="fade-up" data-aos-delay="600">
                     <a href="/page/sub02/sub02_03.php">
-                        <img src="/img/main_box03.jpg" alt="창업 및 소상공인 지원"
+                        <img src="./img/main_box03.jpg" alt="창업 및 소상공인 지원"
                             class="w-full rounded-xl shadow-md hover:scale-105 transition duration-300">
                     </a>
                     <p class="mt-4 text-gray-800 font-semibold text-xl">창업 및 소상공인 지원</p>
@@ -296,7 +296,7 @@ include_once(G5_PATH . '/head.php');
                 <!-- 네 번째 카드 -->
                 <div class="text-center relative md:top-8" data-aos="fade-up" data-aos-delay="800">
                     <a href="/page/sub02/sub02_04.php">
-                        <img src="/img/main_box04.jpg" alt="인증"
+                        <img src="./img/main_box04.jpg" alt="인증"
                             class="w-full rounded-xl shadow-md hover:scale-105 transition duration-300">
                     </a>
                     <p class="mt-4 text-gray-800 font-semibold text-xl">인증</p>
