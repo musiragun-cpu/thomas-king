@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Expires" content="0">
+        <script type="text/javascript" src="/js/mobile/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="/js/smpp/jquery.cookie.js"></script>
+        <script type="text/javascript">	
+        </script>
+        <title>SMPP SERVER ERROR</title>
+        <style>
+            body{width: 100%;margin:0;height:0;font-family: Pretendard, "나눔 고딕", arial, sans-serif;font-size: 16px;line-height: 1.5;-webkit-text-size-adjust: none;color: #202024;position: relative;}
+            p, h1{margin:0;padding:0;}
+
+            .btnType1 {display: inline-block;margin-left: 8px;zoom: 1;border: 1px solid #d2d2d2;background: #f1eff0;color: #555;font-size: 18px;padding: 6px 20px 8px;letter-spacing: -1px;height: 42px;border-radius: 8px;box-sizing: border-box;cursor: pointer;}
+            .btnType1.a5 {background-color: #434343;color: #fff;border: 0;}
+            .btnType1.a2 {background-color: #1f3a7b;border: 0;color: #fff;}
+            /* page error */
+            .error_wrap{margin:50px auto 0;padding:30px;width:415px;border:5px solid #ddd}
+            .error_wrap .tx_wrap{position:relative;min-height:38px;margin-top:27px;padding-left:50px}
+            .error_wrap .tx_wrap .img{position:absolute;top:50%;left:0;margin-top:-19px}
+            .error_wrap .tx_wrap .tx{padding-top:8px;font-size:15px;color:#111;line-height:20px}
+            .error_wrap .tx_wrap .tx2{font-size:14px;color:#111;line-height:19px}
+            .error_wrap .tx_wrap .tx3{font-size:13px;color:#111;line-height:18px}
+
+            .m_btn_top{position:fixed}
+
+            .pop_tit_type{padding:10px 0;background:#a83339;text-align:center}
+            .pop_tit_type p{color:#fff;font-size:18px;font-weight:bold;line-height:20px}
+            .pop_tit_type .tit_inp_chk{width:20px;height:20px;margin:1px 7px 0;vertical-align:top}
+
+            .error {width: 100vw;height: 100vh;min-height: 600px;}
+            .errorBg {width: 100%;height: 100%;background-image: url(./img/bg_error3.png);background-repeat: no-repeat;background-position: center;background-size: cover;display: flex;align-items: center;justify-content: center;}
+            .error_wrap2 {padding: 60px 100px;display: flex;flex-direction: column;justify-content: center;align-items: center;gap: 40px;border-radius: 40px;background: #FFF;box-shadow: 0px 10px 15px 0px rgba(4, 62, 62, 0.10);margin: 16px;}
+            .error_wrap2_title {display: flex;align-items: center;justify-content: center;flex-direction: column;}
+            .error_wrap2_cont {position: relative;text-align: center;padding-top: 24px;margin-top: 24px;}
+            .error_wrap2 .btnBox {width: 100%;display: flex;align-items: center;justify-content: center;gap: 8px;flex-wrap: wrap;}
+            .error-tit {color: #35529a;font-size: 40px;font-weight: 700;line-height: 150%;text-align: center;}
+            .error-subtit {color: #1D1D1D;font-size: 21px;font-weight: 700;line-height: 150%;text-align: center;}
+            .error_wrap2_cont {position: relative;text-align: center;padding-top: 24px;margin-top: 24px;}
+            .error_wrap2_cont .sub {font-size: 17px;font-weight: 500;line-height: 150%;text-align: center;}
+
+@media screen and (max-width: 767px) {
+    .error_wrap2 {
+        padding: 30px;
+    }
+    .error_wrap2 .btnBox {
+        flex-direction: column;
+    }
+    .error_wrap2 .btnBox button {
+        width: 100%;
+        margin: 0;
+    }
+}
+        </style>
+        <script language="javascript">
+            function fncGoAfterErrorPage() {
+                
+                let isInIframe = (window.location != window.parent.location) ? true : false;
+                if (true == isInIframe) {
+                    parent.location.href = "https://smpp.go.kr/";
+                } else {
+                    location.href = "https://smpp.go.kr/";
+                    
+                }
+                //history.back(-2);
+            }
+            function fncGoBeforePage(){
+                history.back(-2);
+            }
+        </script>
+    </head>
+    <body>
+        <div class="error">
+            <div class="errorBg">
+                <div class="error_wrap2">
+                    <h1><img src="./img/img_er_logo2.jpg" width="250" alt="공공구매종합정보망"></h1>
+                    <div>
+                        <div class="error_wrap2_title">
+                            <p class="error-tit">이용에 불편을 드려 죄송합니다.</p>
+                            <p class="error-subtit">서비스가 일시적으로 중단되었습니다.</p>
+                        </div>
+                        <div class="error_wrap2_cont">
+                            <p class="sub"><!-- 서버점검 또는 일시적 과부하로 인해 접속이 중단되었을 수 있습니다.<br> -->
+                                문제를 해결하기 위해 열심히 노력하고 있습니다.<br>
+                                잠시 후 다시 이용해 주시길 부탁드립니다.</p>
+                        </div>
+                    </div>
+                    <!--
+                    <div class="btnBox">
+                        <button type="button" class="btnType1 a5" onclick="fncGoBeforePage();">이전페이지</button>
+                        <button type="button" class="btnType1 a2" onclick="fncGoAfterErrorPage();">메인으로</button>
+                    </div>
+                    -->
+                </div>
+            </div>
+        </div>
+    </body>
+ </html>

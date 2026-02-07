@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#e65100" stroke="#bf360c" stroke-width="3"/>
+
+  <!-- V 로고 (Venture) -->
+  <path d="M50 40 L76 85 L102 40" fill="none" stroke="#ffcc80" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 별 아이콘 -->
+  <polygon points="76,55 79,65 90,65 81,72 84,83 76,76 68,83 71,72 62,65 73,65" fill="#fff3e0"/>
+
+  <!-- 상승 화살표 -->
+  <path d="M95 90 L95 70 L90 75 M95 70 L100 75" fill="none" stroke="#ffe0b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">벤처기업 인증</text>
+</svg>

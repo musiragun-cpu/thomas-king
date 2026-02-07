@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#0288d1" stroke="#0277bd" stroke-width="3"/>
+
+  <!-- 체스 킹 아이콘 (전략) -->
+  <rect x="60" y="85" width="32" height="8" rx="2" fill="#b3e5fc"/>
+  <rect x="65" y="77" width="22" height="10" rx="2" fill="#81d4fa"/>
+  <path d="M68 77 L76 55 L84 77" fill="#4fc3f7"/>
+  <line x1="76" y1="55" x2="76" y2="45" stroke="#e1f5fe" stroke-width="3"/>
+  <line x1="70" y1="50" x2="82" y2="50" stroke="#e1f5fe" stroke-width="3"/>
+
+  <!-- 화살표 (방향성) -->
+  <path d="M45 70 L35 60 L35 65 L25 65 L25 75 L35 75 L35 80 Z" fill="#4fc3f7" transform="rotate(-30 35 70)"/>
+  <path d="M107 70 L117 60 L117 65 L127 65 L127 75 L117 75 L117 80 Z" fill="#4fc3f7" transform="rotate(30 117 70)"/>
+
+  <!-- 목표점 -->
+  <circle cx="76" cy="40" r="6" fill="#e1f5fe"/>
+  <circle cx="76" cy="40" r="3" fill="#0288d1"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">경영전략</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#1565c0" stroke="#0d47a1" stroke-width="3"/>
+
+  <!-- 로드맵/전략 아이콘 (연결된 노드) -->
+  <circle cx="45" cy="50" r="10" fill="#64b5f6"/>
+  <circle cx="76" cy="40" r="10" fill="#90caf9"/>
+  <circle cx="107" cy="50" r="10" fill="#64b5f6"/>
+
+  <!-- 연결선 -->
+  <line x1="55" y1="50" x2="66" y2="43" stroke="#bbdefb" stroke-width="3"/>
+  <line x1="86" y1="43" x2="97" y2="50" stroke="#bbdefb" stroke-width="3"/>
+
+  <!-- 중앙 기어 (기술 상징) -->
+  <path d="M76 60 L79 65 L85 65 L88 60 L93 62 L91 68 L95 73 L101 71 L103 76 L97 79 L97 85 L103 88 L101 93 L95 91 L91 96 L93 102 L88 104 L85 99 L79 99 L76 104 L71 102 L73 96 L69 91 L63 93 L61 88 L67 85 L67 79 L61 76 L63 71 L69 73 L73 68 L71 62 Z" fill="#42a5f5" stroke="#1e88e5" stroke-width="1"/>
+  <circle cx="76" cy="82" r="8" fill="#1565c0"/>
+  <circle cx="76" cy="82" r="4" fill="#bbdefb"/>
+
+  <!-- 화살표 (전략 방향) -->
+  <path d="M50 95 L65 85 L60 85 L60 75 L55 75 L55 85 L50 85 Z" fill="#e3f2fd" transform="rotate(-30 57 85)"/>
+  <path d="M102 95 L87 85 L92 85 L92 75 L97 75 L97 85 L102 85 Z" fill="#e3f2fd" transform="rotate(30 95 85)"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">기술전략</text>
+</svg>

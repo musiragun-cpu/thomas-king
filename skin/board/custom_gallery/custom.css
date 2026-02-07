@@ -1,0 +1,146 @@
+/***** 
+write
+*****/
+.board_news {
+  padding: 0 100px;
+  margin-top: 30px;
+}
+
+#bo_w .cke_sc {
+  display: none;
+}
+
+#bo_w .btn_confirm.write_div {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+#bo_w .btn_confirm .btn_submit {
+  margin-left: 10px;
+}
+
+@media all and (max-width: 768px) {
+  /***** 
+  list
+  *****/
+  #fboardlist {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .gall_row,
+  .pg_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .bo_sch {
+    display: flex;
+    justify-content: center;
+  }
+  .bo_sch select,
+  .bo_sch .sch_input,
+  .bo_sch .sch_btn {
+    font-size: 16px;
+    height: 40px;
+  }
+  .bo_sch .sch_input::placeholder {
+    font-size: 14px;
+  }
+  .bo_sch select {
+    width: 100px;
+  }
+  .bo_sch .sch_input {
+    width: 240px;
+    padding: 0 8px;
+  }
+  .bo_sch .sch_btn {
+    width: 80px;
+  }
+  .pg_start,
+  .pg_end {
+    width: 32px;
+    height: 32px;
+    border: solid 1px #e3e3e3;
+    border-radius: 100%;
+  }
+  .pg_page {
+    font-size: 14px;
+  }
+  .pg_current {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+
+  /***** 
+  view
+  *****/
+  .sec {
+    padding: 80px 20px !important;
+  }
+  .board_news {
+    padding: 0 50px;
+  }
+  #bo_v_title .bo_v_tit {
+    font-size: 1.5em;
+  }
+}
+
+@media all and (max-width: 540px) {
+  /***** 
+  list
+  *****/
+  #bo_list_total span {
+    font-size: 14px;
+  }
+  .bo_sch {
+    width: 320px;
+    margin: 0;
+  }
+  .bo_sch select,
+  .bo_sch .sch_input,
+  .bo_sch .sch_btn {
+    font-size: 14px;
+  }
+  .bo_sch .sch_input::placeholder {
+    font-size: 13px;
+  }
+  .bo_sch select {
+    min-width: 100px;
+  }
+  .bo_sch .sch_input {
+    min-width: 160px;
+    padding: 0 4px;
+  }
+  .bo_sch .sch_btn {
+    min-width: 60px;
+  }
+
+  /***** 
+  view
+  *****/
+  .sec {
+    padding: 50px 20px !important;
+  }
+  .sec .tit_wrap {
+    padding: 0;
+  }
+
+  .board_news {
+    padding: 0;
+  }
+
+  #bo_v_title .bo_v_tit {
+    font-size: 1.5em;
+  }
+  #bo_v_info .profile_info .profile_info_ct {
+    font-size: 14px;
+  }
+  .bo_v_nb {
+    font-size: 14px;
+  }
+}

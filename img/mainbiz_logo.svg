@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#00796b" stroke="#004d40" stroke-width="3"/>
+
+  <!-- 차트 아이콘 (경영혁신) -->
+  <rect x="45" y="75" width="12" height="20" rx="2" fill="#80cbc4"/>
+  <rect x="60" y="60" width="12" height="35" rx="2" fill="#4db6ac"/>
+  <rect x="75" y="45" width="12" height="50" rx="2" fill="#26a69a"/>
+  <rect x="90" y="55" width="12" height="40" rx="2" fill="#4db6ac"/>
+
+  <!-- 상승 화살표 -->
+  <path d="M50 70 L70 55 L85 65 L100 45" fill="none" stroke="#e0f2f1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M93 45 L100 45 L100 52" fill="none" stroke="#e0f2f1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">메인비즈 인증</text>
+</svg>

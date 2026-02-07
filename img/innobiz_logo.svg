@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#6a1b9a" stroke="#4a148c" stroke-width="3"/>
+
+  <!-- 전구 아이콘 (기술혁신) -->
+  <ellipse cx="76" cy="55" rx="22" ry="25" fill="#e1bee7"/>
+  <rect x="68" y="78" width="16" height="8" rx="2" fill="#ce93d8"/>
+  <rect x="70" y="84" width="12" height="4" rx="1" fill="#ba68c8"/>
+
+  <!-- 전구 내부 빛 -->
+  <path d="M68 50 L76 42 L84 50" fill="none" stroke="#6a1b9a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="76" y1="42" x2="76" y2="60" stroke="#6a1b9a" stroke-width="2"/>
+
+  <!-- 기어 아이콘 (기술) -->
+  <circle cx="100" cy="75" r="12" fill="#ce93d8"/>
+  <circle cx="100" cy="75" r="5" fill="#6a1b9a"/>
+  <g fill="#ce93d8">
+    <rect x="98" y="60" width="4" height="6"/>
+    <rect x="98" y="84" width="4" height="6"/>
+    <rect x="85" y="73" width="6" height="4"/>
+    <rect x="109" y="73" width="6" height="4"/>
+  </g>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">이노비즈 인증</text>
+</svg>

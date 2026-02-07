@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#f57c00" stroke="#ef6c00" stroke-width="3"/>
+
+  <!-- 청진기 아이콘 -->
+  <circle cx="76" cy="75" r="15" fill="#ffe0b2" stroke="#ffcc80" stroke-width="2"/>
+  <circle cx="76" cy="75" r="8" fill="#f57c00"/>
+  <path d="M76 60 L76 40 Q76 35 81 35 L90 35 Q95 35 95 40 L95 50" fill="none" stroke="#ffcc80" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="95" cy="53" r="5" fill="#ffe0b2"/>
+
+  <!-- 체크리스트 -->
+  <rect x="40" y="85" width="28" height="20" rx="2" fill="#fff3e0"/>
+  <line x1="45" y1="91" x2="62" y2="91" stroke="#ffb74d" stroke-width="2"/>
+  <line x1="45" y1="97" x2="58" y2="97" stroke="#ffb74d" stroke-width="2"/>
+
+  <!-- 차트 -->
+  <rect x="84" y="85" width="28" height="20" rx="2" fill="#fff3e0"/>
+  <polyline points="89,100 95,93 101,96 107,88" fill="none" stroke="#f57c00" stroke-width="2"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">기업진단</text>
+</svg>

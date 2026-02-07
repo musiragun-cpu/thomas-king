@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#6a1b9a" stroke="#4a148c" stroke-width="3"/>
+
+  <!-- 왼쪽 박스 (Before) -->
+  <rect x="35" y="50" width="30" height="25" rx="3" fill="#ce93d8"/>
+
+  <!-- 오른쪽 박스 (After) - 더 크고 발전된 형태 -->
+  <rect x="87" y="40" width="35" height="35" rx="3" fill="#e1bee7"/>
+  <path d="M95 55 L95 65 L115 65 L115 55" fill="none" stroke="#6a1b9a" stroke-width="2"/>
+  <circle cx="105" cy="60" r="5" fill="#ce93d8"/>
+
+  <!-- 전환 화살표 -->
+  <path d="M68 62 C76 55, 76 55, 84 58" fill="none" stroke="#f3e5f5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 53 L84 58 L79 62" fill="none" stroke="#f3e5f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 순환 화살표 -->
+  <path d="M60 85 A20 20 0 0 1 92 85" fill="none" stroke="#d1c4e9" stroke-width="2"/>
+  <path d="M88 82 L92 85 L88 88" fill="none" stroke="#d1c4e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">사업전환</text>
+</svg>

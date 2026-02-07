@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#c2185b" stroke="#ad1457" stroke-width="3"/>
+
+  <!-- 전구 (혁신 아이디어) -->
+  <ellipse cx="76" cy="55" rx="20" ry="22" fill="#fce4ec"/>
+  <rect x="68" y="75" width="16" height="8" rx="2" fill="#f8bbd9"/>
+  <line x1="70" y1="79" x2="82" y2="79" stroke="#c2185b" stroke-width="1"/>
+  <line x1="71" y1="82" x2="81" y2="82" stroke="#c2185b" stroke-width="1"/>
+
+  <!-- 빛 효과 -->
+  <line x1="76" y1="28" x2="76" y2="35" stroke="#fce4ec" stroke-width="2"/>
+  <line x1="55" y1="38" x2="60" y2="43" stroke="#fce4ec" stroke-width="2"/>
+  <line x1="97" y1="38" x2="92" y2="43" stroke="#fce4ec" stroke-width="2"/>
+  <line x1="50" y1="55" x2="42" y2="55" stroke="#fce4ec" stroke-width="2"/>
+  <line x1="102" y1="55" x2="110" y2="55" stroke="#fce4ec" stroke-width="2"/>
+
+  <!-- 회전 화살표 (혁신/변화) -->
+  <path d="M45 95 A25 25 0 0 1 76 90" fill="none" stroke="#f8bbd9" stroke-width="3"/>
+  <path d="M76 90 L80 85 L80 95 Z" fill="#f8bbd9"/>
+  <path d="M107 95 A25 25 0 0 0 76 100" fill="none" stroke="#f8bbd9" stroke-width="3"/>
+  <path d="M76 100 L72 105 L72 95 Z" fill="#f8bbd9"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">경영혁신</text>
+</svg>

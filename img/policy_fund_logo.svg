@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#1565c0" stroke="#0d47a1" stroke-width="3"/>
+
+  <!-- 문서/정책 아이콘 -->
+  <rect x="50" y="35" width="40" height="50" rx="3" fill="#bbdefb"/>
+  <line x1="57" y1="47" x2="83" y2="47" stroke="#1565c0" stroke-width="2"/>
+  <line x1="57" y1="55" x2="83" y2="55" stroke="#1565c0" stroke-width="2"/>
+  <line x1="57" y1="63" x2="75" y2="63" stroke="#1565c0" stroke-width="2"/>
+
+  <!-- 동전/자금 아이콘 -->
+  <circle cx="95" cy="80" r="18" fill="#90caf9" stroke="#64b5f6" stroke-width="2"/>
+  <text x="95" y="86" font-family="Arial" font-size="16" font-weight="bold" fill="#1565c0" text-anchor="middle">₩</text>
+
+  <!-- 연결 화살표 -->
+  <path d="M75 75 L85 75" fill="none" stroke="#e3f2fd" stroke-width="2" stroke-linecap="round"/>
+  <path d="M82 72 L85 75 L82 78" fill="none" stroke="#e3f2fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">정책자금</text>
+</svg>

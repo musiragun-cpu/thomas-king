@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#7b1fa2" stroke="#6a1b9a" stroke-width="3"/>
+
+  <!-- 특허 문서 아이콘 -->
+  <rect x="55" y="35" width="42" height="55" rx="3" fill="#e1bee7" stroke="#ce93d8" stroke-width="2"/>
+  <rect x="60" y="42" width="25" height="3" fill="#9c27b0"/>
+  <rect x="60" y="50" width="30" height="2" fill="#ba68c8"/>
+  <rect x="60" y="56" width="28" height="2" fill="#ba68c8"/>
+  <rect x="60" y="62" width="30" height="2" fill="#ba68c8"/>
+  <rect x="60" y="68" width="20" height="2" fill="#ba68c8"/>
+
+  <!-- 화살표 (기술 이전 상징) -->
+  <path d="M40 75 L55 75 L55 70 L65 78 L55 86 L55 81 L40 81 Z" fill="#ce93d8"/>
+  <path d="M112 75 L97 75 L97 70 L87 78 L97 86 L97 81 L112 81 Z" fill="#ce93d8"/>
+
+  <!-- 전구 아이콘 (기술/아이디어 상징) -->
+  <ellipse cx="76" cy="100" rx="12" ry="14" fill="#ffd600" stroke="#ffab00" stroke-width="1.5"/>
+  <rect x="71" y="112" width="10" height="5" rx="1" fill="#ffab00"/>
+  <line x1="76" y1="93" x2="76" y2="100" stroke="#ff6f00" stroke-width="1.5"/>
+  <line x1="70" y1="97" x2="76" y2="100" stroke="#ff6f00" stroke-width="1.5"/>
+  <line x1="82" y1="97" x2="76" y2="100" stroke="#ff6f00" stroke-width="1.5"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">기술이전·특허</text>
+</svg>

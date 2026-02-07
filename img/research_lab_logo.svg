@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#303f9f" stroke="#1a237e" stroke-width="3"/>
+
+  <!-- 플라스크/비커 아이콘 -->
+  <path d="M65 35 L65 55 L50 85 L50 90 Q50 95 55 95 L97 95 Q102 95 102 90 L102 85 L87 55 L87 35" fill="#c5cae9" stroke="#7986cb" stroke-width="2"/>
+
+  <!-- 플라스크 입구 -->
+  <rect x="62" y="32" width="28" height="6" rx="2" fill="#9fa8da"/>
+
+  <!-- 액체 -->
+  <path d="M55 80 L60 70 L92 70 L97 80 L97 90 Q97 93 94 93 L58 93 Q55 93 55 90 Z" fill="#7986cb"/>
+
+  <!-- 거품 -->
+  <circle cx="65" cy="78" r="3" fill="#9fa8da"/>
+  <circle cx="75" cy="82" r="4" fill="#9fa8da"/>
+  <circle cx="88" cy="80" r="3" fill="#9fa8da"/>
+
+  <!-- 원자 아이콘 -->
+  <circle cx="100" cy="50" r="4" fill="#c5cae9"/>
+  <ellipse cx="100" cy="50" rx="12" ry="5" fill="none" stroke="#c5cae9" stroke-width="1.5"/>
+  <ellipse cx="100" cy="50" rx="12" ry="5" fill="none" stroke="#c5cae9" stroke-width="1.5" transform="rotate(60 100 50)"/>
+  <ellipse cx="100" cy="50" rx="12" ry="5" fill="none" stroke="#c5cae9" stroke-width="1.5" transform="rotate(-60 100 50)"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">기업부설연구소</text>
+</svg>

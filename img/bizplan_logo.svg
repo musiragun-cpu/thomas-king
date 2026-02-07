@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#00897b" stroke="#00796b" stroke-width="3"/>
+
+  <!-- 문서 아이콘 -->
+  <rect x="50" y="35" width="52" height="65" rx="4" fill="#e0f2f1" stroke="#80cbc4" stroke-width="2"/>
+
+  <!-- 문서 내용 (텍스트 라인) -->
+  <rect x="58" y="45" width="20" height="4" fill="#00897b"/>
+  <rect x="58" y="54" width="35" height="3" fill="#4db6ac"/>
+  <rect x="58" y="61" width="32" height="3" fill="#4db6ac"/>
+  <rect x="58" y="68" width="35" height="3" fill="#4db6ac"/>
+
+  <!-- 차트 -->
+  <rect x="58" y="76" width="35" height="18" rx="2" fill="#b2dfdb"/>
+  <polyline points="62,90 70,84 78,87 88,80" fill="none" stroke="#00897b" stroke-width="2"/>
+
+  <!-- 체크마크 -->
+  <circle cx="90" cy="42" r="8" fill="#4db6ac"/>
+  <path d="M86 42 L89 45 L95 38" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">사업계획</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#7b1fa2" stroke="#6a1b9a" stroke-width="3"/>
+
+  <!-- 중앙 인물 -->
+  <circle cx="76" cy="45" r="12" fill="#e1bee7"/>
+  <path d="M60 65 Q60 55 76 55 Q92 55 92 65 L92 75 L60 75 Z" fill="#ce93d8"/>
+
+  <!-- 좌측 인물 -->
+  <circle cx="45" cy="55" r="10" fill="#e1bee7"/>
+  <path d="M32 72 Q32 64 45 64 Q58 64 58 72 L58 80 L32 80 Z" fill="#ce93d8"/>
+
+  <!-- 우측 인물 -->
+  <circle cx="107" cy="55" r="10" fill="#e1bee7"/>
+  <path d="M94 72 Q94 64 107 64 Q120 64 120 72 L120 80 L94 80 Z" fill="#ce93d8"/>
+
+  <!-- 연결선 -->
+  <line x1="55" y1="60" x2="66" y2="55" stroke="#f3e5f5" stroke-width="2"/>
+  <line x1="97" y1="60" x2="86" y2="55" stroke="#f3e5f5" stroke-width="2"/>
+
+  <!-- 문서/규정 아이콘 -->
+  <rect x="64" y="82" width="24" height="16" rx="2" fill="#f3e5f5"/>
+  <line x1="68" y1="87" x2="84" y2="87" stroke="#9c27b0" stroke-width="2"/>
+  <line x1="68" y1="92" x2="80" y2="92" stroke="#9c27b0" stroke-width="2"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">인사노무</text>
+</svg>

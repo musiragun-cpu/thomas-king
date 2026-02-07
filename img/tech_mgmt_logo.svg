@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#1976d2" stroke="#1565c0" stroke-width="3"/>
+
+  <!-- 기어 아이콘 (기술) -->
+  <path d="M55 45 L58 50 L64 50 L67 45 L72 47 L70 53 L74 57 L80 55 L82 60 L77 63 L77 69 L82 72 L80 77 L74 75 L70 79 L72 85 L67 87 L64 82 L58 82 L55 87 L50 85 L52 79 L48 75 L42 77 L40 72 L45 69 L45 63 L40 60 L42 55 L48 57 L52 53 L50 47 Z" fill="#64b5f6" stroke="#42a5f5" stroke-width="1"/>
+  <circle cx="55" cy="66" r="8" fill="#1976d2"/>
+  <circle cx="55" cy="66" r="4" fill="#bbdefb"/>
+
+  <!-- 차트/경영 아이콘 -->
+  <rect x="85" y="50" width="25" height="35" rx="2" fill="#e3f2fd" stroke="#90caf9" stroke-width="1"/>
+  <rect x="90" y="72" width="5" height="8" fill="#1976d2"/>
+  <rect x="97" y="65" width="5" height="15" fill="#42a5f5"/>
+  <rect x="104" y="58" width="5" height="22" fill="#64b5f6"/>
+
+  <!-- 연결 화살표 -->
+  <path d="M72 66 L83 66" stroke="#90caf9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 63 L83 66 L80 69" fill="none" stroke="#90caf9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 하단 연결선 -->
+  <line x1="55" y1="90" x2="55" y2="100" stroke="#bbdefb" stroke-width="2"/>
+  <line x1="97" y1="90" x2="97" y2="100" stroke="#bbdefb" stroke-width="2"/>
+  <line x1="55" y1="100" x2="97" y2="100" stroke="#bbdefb" stroke-width="2"/>
+  <circle cx="76" cy="100" r="4" fill="#e3f2fd"/>
+
+  <!-- 텍스트 -->
+  <text x="76" y="125" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">기술경영</text>
+</svg>

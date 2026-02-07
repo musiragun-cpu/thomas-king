@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 152">
+  <!-- 배경 원 -->
+  <circle cx="76" cy="76" r="70" fill="#1565c0" stroke="#0d47a1" stroke-width="3"/>
+
+  <!-- 별 모양 (혁신/우수 상징) -->
+  <polygon points="76,25 84,55 115,55 90,73 99,103 76,85 53,103 62,73 37,55 68,55" fill="#ffd600" stroke="#ffc107" stroke-width="1"/>
+
+  <!-- 혁신제품 텍스트 -->
+  <text x="76" y="125" font-family="Malgun Gothic, Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">혁신제품</text>
+</svg>
