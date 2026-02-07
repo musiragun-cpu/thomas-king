@@ -1866,7 +1866,7 @@ footer{padding: 3.75rem 1.5rem;background: #f8f8f8;}
     opacity: .2;
     color: #fff;
     }
-.section02 {padding: 8rem 1.5rem;padding-bottom: 10rem;background: url(/img/sec02Bg.png) no-repeat;background-attachment: fixed;}
+.section02 {padding: 8rem 1.5rem;padding-bottom: 10rem;background: url(../img/sec02Bg.png) no-repeat;background-attachment: fixed;}
 
 .mainTitle {
     text-align: left;
@@ -2387,50 +2387,50 @@ footer{padding: 3.75rem 1.5rem;background: #f8f8f8;}
 .menu-Nitem-active{display:block !important}
     .telBtn span{color: #111 !important}
 .bg-sub01-01-1 {
-    background: url('/img/sub_1.jpg') no-repeat;
+    background: url('../img/sub_1.jpg') no-repeat;
 }
 .bg-sub01-01-2 {
-    background: url('/img/subBg01-04.jpg') no-repeat;
+    background: url('../img/subBg01-04.jpg') no-repeat;
 }
 .bg-sub01-01-3 {
-    background: url('/img/subBg01-01.jpg') no-repeat;
+    background: url('../img/subBg01-01.jpg') no-repeat;
 }
 .bg-sub01-01-4 {
-    background: url('/img/subBg01-01.jpg') no-repeat;
+    background: url('../img/subBg01-01.jpg') no-repeat;
 }
 .bg-sub02-01 {
-    background: url('/img/subBg02.jpg') no-repeat;
+    background: url('../img/subBg02.jpg') no-repeat;
 }
 
 .bg-sub02-02 {
-    background: url('/img/subBg03.jpg') no-repeat;
+    background: url('../img/subBg03.jpg') no-repeat;
 }
 
 .bg-sub03-01 {
-    background: url('/img/subBg04.jpg') no-repeat;
+    background: url('../img/subBg04.jpg') no-repeat;
 }
 
 
 .bg-sub04-01 {
-    background: url('/img/subBg05.jpg') no-repeat;
+    background: url('../img/subBg05.jpg') no-repeat;
 }
 
 .bg-sub05-01 {
-    background: url('/img/subBg06.png') no-repeat;
+    background: url('../img/subBg06.png') no-repeat;
 }
 
 .bg-sub03-03 {
-    background: url('/img/subBg14.png') no-repeat;
+    background: url('../img/subBg14.png') no-repeat;
 }
 
 
 
 .bg-sub04-02 {
-    background: url('/img/subBg19.png') no-repeat;
+    background: url('../img/subBg19.png') no-repeat;
 }
 
 .bg-sub04-03 {
-    background: url('/img/subBg01.png') no-repeat;
+    background: url('../img/subBg01.png') no-repeat;
 }
 
 .bg-default {
@@ -2555,7 +2555,7 @@ footer{padding: 3.75rem 1.5rem;background: #f8f8f8;}
     -moz-appearance: none;
     background-color: #EFF9FE;}
 
-.sBgBox{/* background: url(/img/sub01_09.png) no-repeat 50% 50%; */display: flex;align-items: center;justify-content: center;background-size: cover;padding: 2.5rem 0;}
+.sBgBox{/* background: url(../img/sub01_09.png) no-repeat 50% 50%; */display: flex;align-items: center;justify-content: center;background-size: cover;padding: 2.5rem 0;}
 .sBgBox p{color: #111;font-size: 2rem;text-align: center;font-weight: 600;}
 .hide{top: -100%;transition: all .85s;}
 .ftBtn{
