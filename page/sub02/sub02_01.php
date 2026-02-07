@@ -185,7 +185,7 @@ include_once(G5_PATH . '/head.php');
                                 <p style="font-weight: 700;">
                                     과제기획서 준비
                                 </p>
-                                연구개발계획서 작성 (기업 자체 작성)
+                                연구개발계획서 작성 지도 (기업 자체 작성)
                             </li>
                             <span style="align-items: center; display:flex">
                                 <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -264,7 +264,7 @@ include_once(G5_PATH . '/head.php');
                                 <p style="font-weight: 700;">
                                     과제기획 자문
                                 </p>
-                                연구개발계획서 작성
+                                연구개발계획서 작성 지도
                                 코칭 및 검토
                             </li>
                             <span style="align-items: center; display:flex">
