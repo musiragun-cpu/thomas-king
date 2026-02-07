@@ -50,7 +50,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/tech_mgmt_logo.svg" alt="기술경영 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/tech_mgmt_logo.svg" alt="기술경영 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -190,7 +190,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/strategy_logo.svg" alt="경영전략 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/strategy_logo.svg" alt="경영전략 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -330,7 +330,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/bizplan_logo.svg" alt="사업계획 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/bizplan_logo.svg" alt="사업계획 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -470,7 +470,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/tech_value_logo.svg" alt="기술가치평가 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/tech_value_logo.svg" alt="기술가치평가 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -610,7 +610,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/diagnosis_logo.svg" alt="기업진단 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/diagnosis_logo.svg" alt="기업진단 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -750,7 +750,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/innovation_logo.svg" alt="경영혁신 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/innovation_logo.svg" alt="경영혁신 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -890,7 +890,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/hr_logo.svg" alt="인사노무 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/hr_logo.svg" alt="인사노무 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
@@ -1030,7 +1030,7 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="/img/org_dev_logo.svg" alt="조직개발 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/org_dev_logo.svg" alt="조직개발 로고" style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
