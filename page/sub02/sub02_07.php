@@ -16,7 +16,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="../../img/egBtn01.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn01.jpg" alt="">
             </span>
             <span class="egBtn02">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -24,7 +24,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="../../img/egBtn02.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn02.jpg" alt="">
             </span>
             <span class="egBtn03">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -32,7 +32,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="../../img/egBtn03.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn03.jpg" alt="">
             </span>
             <span class="egBtn04">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -40,7 +40,7 @@ include_once(G5_PATH . '/head.php');
                     <path d="M12 5V19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     <path d="M5 12H19" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
-                <img src="../../img/egBtn04.jpg" alt="" onclick="location.href='#tab01'">
+                <img src="../../img/egBtn04.jpg" alt="">
             </span>
             <span class="egBtn05">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -105,7 +105,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">ME-C Large</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">ME-C Large
+                                        </th>
                                     </tr>
                                 </thead>
                                 <!-- <tbody class="text-gray-700">
@@ -122,7 +123,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">ME-C Small</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">ME-C Small
+                                        </th>
                                     </tr>
                                 </thead>
                                 <!-- <tbody class="text-gray-700">
@@ -190,7 +192,8 @@ include_once(G5_PATH . '/head.php');
                     </div>
 
                 </div>
-                <h2 class="mb-4 text-2xl font-bold subtitle01  mt-16">Heating Tank Unit & Booster Pump Station & A-ECL Oil Supply Unit</h2>
+                <h2 class="mb-4 text-2xl font-bold subtitle01  mt-16">Heating Tank Unit & Booster Pump Station & A-ECL
+                    Oil Supply Unit</h2>
                 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-5 p-4">
 
                     <div>
@@ -199,7 +202,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Heating Tank Unit</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Heating
+                                            Tank Unit</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700">
@@ -216,7 +220,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Booster Pump Unit</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Booster
+                                            Pump Unit</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700">
@@ -233,7 +238,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">A-ECL Oil Supply Unit</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">A-ECL Oil
+                                            Supply Unit</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700">
@@ -268,7 +274,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HDFD-1100</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HDFD-1100
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -287,12 +294,14 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">F(P)BTD-1300</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            F(P)BTD-1300</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
                                     <tr>
-                                        <td class="p-2 border-b border-gray-300 border">•Fuel Booster(Pilot) Injection Valve <br>
+                                        <td class="p-2 border-b border-gray-300 border">•Fuel Booster(Pilot) Injection
+                                            Valve <br>
                                             •Diesel injector <br>
                                             •Hydraulic oil testing: opening / venting / leakage</td>
                                     </tr>
@@ -306,7 +315,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">VTU-500ME-GI/GIE</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            VTU-500ME-GI/GIE</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -325,7 +335,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">VTU-500ME-GA</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            VTU-500ME-GA</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -344,7 +355,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">VTU-500ME-LGIP</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            VTU-500ME-LGIP</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -363,7 +375,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">VTU-500ME-LGIM</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            VTU-500ME-LGIM</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -388,7 +401,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">VTUE-2000/DF</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            VTUE-2000/DF</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -407,7 +421,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">VTUE-2500/DF</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            VTUE-2500/DF</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -440,15 +455,16 @@ include_once(G5_PATH . '/head.php');
                     <img src="../../img/sub02_01_17.png" alt="certificate 2" class="mx-auto rounded ">
                     <img src="../../img/sub02_01_18.png" alt="certificate 2" class="mx-auto rounded ">
                     <img src="../../img/sub02_01_19.png" alt="certificate 2" class="mx-auto rounded ">
-                    </div>
+                </div>
                 <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 p-4">
-                    
+
                     <div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">SOU type</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">SOU type
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
@@ -467,7 +483,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Engine</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Engine
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
@@ -487,7 +504,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Remark</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">Remark
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
@@ -524,14 +542,16 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HTBA225-30</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HTBA225-30
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
                                     <tr>
                                         <td class="p-2 border-b border-gray-300 border">•MAN ES Engine application <br>
                                             •On/Off type <br>
-                                            •Air booster pump,  hydraulic oil auto. Filling, low oil consumption, non-air chamber anti rusting <br>
+                                            •Air booster pump,  hydraulic oil auto. Filling, low oil consumption,
+                                            non-air chamber anti rusting <br>
                                             •Control panel; M/E rpm signal input</td>
                                     </tr>
                                 </tbody>
@@ -544,7 +564,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HTBS225-30</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HTBS225-30
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -564,7 +585,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HTBS200-30</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HTBS200-30
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -590,7 +612,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">TBD200-30</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">TBD200-30
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -611,7 +634,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">TBS250-30</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">TBS250-30
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -650,7 +674,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-1500/1500.2</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            AHP-1500/1500.2</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -672,7 +697,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-2500/2000</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">
+                                            AHP-2500/2000</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -691,7 +717,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-3500</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-3500
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -715,7 +742,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-2500.1</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-2500.1
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -734,7 +762,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-3000</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-3000
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -753,7 +782,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-3000.1</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">AHP-3000.1
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-left">
@@ -775,7 +805,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-1600</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-1600
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
@@ -792,12 +823,14 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-1700 / 2000N</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-1700 /
+                                            2000N</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
                                     <tr>
-                                        <td class="p-2 border-b border-gray-300 border">Max Pressure: 1,700/2,000bar</td>
+                                        <td class="p-2 border-b border-gray-300 border">Max Pressure: 1,700/2,000bar
+                                        </td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -809,7 +842,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-2500</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-2500
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
@@ -826,7 +860,8 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-3500</th>
+                                        <th class="px-2 py-3  border-gray-300 text-primary  leading-4 border">HML-3500
+                                        </th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700  text-center">
@@ -876,27 +911,39 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="../../img/sub02_01_35.png" alt="certificate 2" class="mx-auto rounded w-full md:w-1/2">
-                            <img src="../../img/sub02_01_36.png" alt="certificate 2" class="mx-auto rounded w-full md:w-1/2">
+                            <img src="../../img/sub02_01_35.png" alt="certificate 2"
+                                class="mx-auto rounded w-full md:w-1/2">
+                            <img src="../../img/sub02_01_36.png" alt="certificate 2"
+                                class="mx-auto rounded w-full md:w-1/2">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr class="2-1/3">
-                                        <th colspan="6" class="px-2 py-3 border-gray-300 text-primary leading-4 border">Working Pressure(bar)</th>
+                                        <th colspan="6" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Working Pressure(bar)</th>
                                     </tr>
                                     <tr class="2-1/3">
-                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">MAN ES</th>
-                                        <th colspan="2" class="px-2 py-3 border-gray-300 text-primary leading-4 border">WIN G&D</th>
-                                        <th colspan="1" class="px-2 py-3 border-gray-300 text-primary leading-4 border">J-ENG</th>
+                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            MAN ES</th>
+                                        <th colspan="2" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            WIN G&D</th>
+                                        <th colspan="1" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            J-ENG</th>
                                     </tr class="2-1/3">
                                     <tr class="2-1/3">
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">MC</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">MC-C</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">ME</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">RTA</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">RTF, X-engine</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">UEC</th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">MC
+                                        </th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">MC-C
+                                        </th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">ME
+                                        </th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">RTA
+                                        </th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">RTF,
+                                            X-engine</th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border w-1/6">UEC
+                                        </th>
                                     </tr>
 
                                 </thead>
@@ -921,9 +968,12 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="../../img/sub02_01_37.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="../../img/sub02_01_38.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="../../img/sub02_01_39.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_37.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_38.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_39.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center mt-6">
@@ -931,11 +981,13 @@ include_once(G5_PATH . '/head.php');
                                     <tr>
                                     </tr>
                                     <tr>
-                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">1.5K Series</th>
+                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            1.5K Series</th>
                                     </tr>
                                     <tr>
                                         <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HC-1.5K</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HNC-1.5K</th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HNC-1.5K
+                                        </th>
                                         <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HN-1.5K</th>
                                     </tr>
 
@@ -955,9 +1007,12 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="../../img/sub02_01_40.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="../../img/sub02_01_41.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="../../img/sub02_01_42.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_40.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_41.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_42.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center mt-6">
@@ -965,11 +1020,13 @@ include_once(G5_PATH . '/head.php');
                                     <tr>
                                     </tr>
                                     <tr>
-                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">1.5K Series</th>
+                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            1.5K Series</th>
                                     </tr>
                                     <tr>
                                         <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HC-2.0K</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HNC-2.0K</th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HNC-2.0K
+                                        </th>
                                         <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HN-2.0K</th>
                                     </tr>
 
@@ -989,9 +1046,12 @@ include_once(G5_PATH . '/head.php');
                 <div class="grid grid-cols-1 p-4">
                     <div>
                         <div class="flex flex-wrap">
-                            <img src="../../img/sub02_01_43.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="../../img/sub02_01_44.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
-                            <img src="../../img/sub02_01_45.png" alt="certificate 2" class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_43.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_44.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
+                            <img src="../../img/sub02_01_45.png" alt="certificate 2"
+                                class="mx-auto rounded w-1/5 md:1/5">
                         </div>
                         <div class="tbl_wrap mt-4">
                             <table class="min-w-full bg-white border border-gray-200 text-center mt-6">
@@ -999,11 +1059,13 @@ include_once(G5_PATH . '/head.php');
                                     <tr>
                                     </tr>
                                     <tr>
-                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">1.5K Series</th>
+                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            1.5K Series</th>
                                     </tr>
                                     <tr>
                                         <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HC-2.5K</th>
-                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HNC-2.5K</th>
+                                        <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HNC-2.5K
+                                        </th>
                                         <th class="px-2 py-3 border-gray-300 text-primary leading-4 border">HN-2.5K</th>
                                     </tr>
 
@@ -1031,52 +1093,62 @@ include_once(G5_PATH . '/head.php');
                             <table class="min-w-full bg-white border border-gray-200 text-center">
                                 <thead class="bg-blue-50">
                                     <tr>
-                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">Technical Specification</th>
+                                        <th colspan="3" class="px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Technical Specification</th>
                                     </tr>
                                 </thead>
                                 <tbody class="text-gray-700 text-center">
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Application</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Application</td>
                                         <td class="p-2 border-b border-gray-300 border">1800bar Hose</td>
                                         <td class="p-2 border-b border-gray-300 border">2500bar Hose</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Color</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Color</td>
                                         <td class="p-2 border-b border-gray-300 border">Blue</td>
                                         <td class="p-2 border-b border-gray-300 border">Red</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Max. working pressure(bar)</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Max. working pressure(bar)</td>
                                         <td class="p-2 border-b border-gray-300 border">1,800</td>
                                         <td class="p-2 border-b border-gray-300 border">2,500</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Min. burst pressure(bar)</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Min. burst pressure(bar)</td>
                                         <td class="p-2 border-b border-gray-300 border">4,500</td>
                                         <td class="p-2 border-b border-gray-300 border">6,250</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Outer dia.(mm)</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Outer dia.(mm)</td>
                                         <td class="p-2 border-b border-gray-300 border">11.2</td>
                                         <td class="p-2 border-b border-gray-300 border">13.2</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Inner dia.(mm)</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Inner dia.(mm)</td>
                                         <td class="p-2 border-b border-gray-300 border">5.0</td>
                                         <td class="p-2 border-b border-gray-300 border">4.8</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Min. bend radius(mm)</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Min. bend radius(mm)</td>
                                         <td class="p-2 border-b border-gray-300 border">150</td>
                                         <td class="p-2 border-b border-gray-300 border">200</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Temperature range</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Temperature range</td>
                                         <td class="p-2 border-b border-gray-300 border">-30℃ ~ +60℃</td>
                                         <td class="p-2 border-b border-gray-300 border">-30℃ ~ +60℃</td>
                                     </tr>
                                     <tr>
-                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">Couplings/nipples</td>
+                                        <td class="bg-blue-50 px-2 py-3 border-gray-300 text-primary leading-4 border">
+                                            Couplings/nipples</td>
                                         <td class="p-2 border-b border-gray-300 border">1.5K series</td>
                                         <td class="p-2 border-b border-gray-300 border">2.5K series</td>
                                     </tr>
@@ -1095,16 +1167,57 @@ include_once(G5_PATH . '/head.php');
 include_once(G5_PATH . '/tail.php');
 ?>
 <script>
-// .egBtnWrap span img 클릭 시 .page_tab으로 스크롤 이동
-$('.egBtnWrap span img').on('click', function () {
-    const headerHeight = 6 * 16; // 6rem을 픽셀 값으로 변환 (1rem = 16px로 가정)
-    gsap.to(window, {
-        scrollTo: {
-            y: ".page_tab", // 스크롤 타겟 요소
-            offsetY: headerHeight // 헤더 높이만큼 오프셋 추가
-        },
-        duration: 1,          // 스크롤 애니메이션 지속 시간
-        ease: "power2.inOut"  // 부드러운 스크롤 효과 적용
+    gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const tabs = document.querySelectorAll('.page_tab span');
+        const tabContents = document.querySelectorAll('.tabItems');
+        const topButtons = document.querySelectorAll('.egBtnWrap > span');
+
+        function activateTab(index) {
+            // Deactivate all
+            tabs.forEach(t => t.classList.remove('active'));
+            tabContents.forEach(c => c.classList.remove('tabActive'));
+
+            // Activate specific
+            if (tabs[index]) tabs[index].classList.add('active');
+            if (tabContents[index]) tabContents[index].classList.add('tabActive');
+
+            // Scroll
+            if (tabContents[index]) {
+                gsap.to(window, {
+                    duration: 0.5,
+                    scrollTo: { y: tabContents[index], offsetY: 100 }
+                });
+            }
+        }
+
+        // Tab Menu Clicks
+        tabs.forEach((tab, index) => {
+            tab.addEventListener('click', () => activateTab(index));
+        });
+
+        // Top Button Clicks (match by index)
+        topButtons.forEach((btn, index) => {
+            btn.addEventListener('click', () => activateTab(index));
+        });
     });
-});
 </script>
+
+<style>
+    .tabItems {
+        display: none;
+    }
+
+    .tabItems.tabActive {
+        display: block;
+    }
+
+    .page_tab span {
+        cursor: pointer;
+    }
+
+    .egBtnWrap>span {
+        cursor: pointer;
+    }
+</style>

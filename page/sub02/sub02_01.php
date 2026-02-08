@@ -123,7 +123,8 @@ include_once(G5_PATH . '/head.php');
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">R&D 개요</p>
-                        <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">목적 : 정부 R&D 지원사업을 통해 기술개발 역량을 강화하고, R&D 성과를
+                        <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">목적 : 정부 R&D 지원사업을 통해 기술개발 역량을 강화하고,
+                            R&D 성과를
                             NET·NEP 인증, 혁신제품 지정, 조달우수제품 등록으로 연계하여 공공조달 시장 진출을 지원합니다.</p>
                     </div>
                 </div>
@@ -155,13 +156,17 @@ include_once(G5_PATH . '/head.php');
                     <h2 class="mt-0 mb-4 text-2xl font-bold subtitle01 w-full md:w-1/5">R&D 성과<br>연계 및 활용</h2>
                     <div class="">
                         <p class="text-2xl text-black whitespace-pre-line font-bold">1. NET·NEP 인증 연계</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">R&D 성과물을 신기술(NET) 또는 신제품(NEP) 인증으로 연계하여 기술력 공인</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">R&D 성과물을 신기술(NET) 또는 신제품(NEP) 인증으로
+                            연계하여 기술력 공인</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">2. 혁신제품 지정 연계</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">개발 제품을 조달청 혁신제품으로 지정받아 공공기관 수의계약 및 우선구매 혜택 확보</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">개발 제품을 조달청 혁신제품으로 지정받아 공공기관 수의계약 및
+                            우선구매 혜택 확보</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">3. 조달우수제품 등록 연계</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">NET·NEP 인증 획득 후 조달우수제품으로 등록하여 나라장터 직접 판매 및 공공기관 납품</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">NET·NEP 인증 획득 후 조달우수제품으로 등록하여 나라장터 직접
+                            판매 및 공공기관 납품</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">4. 성능인증 연계</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">R&D 결과물의 성능을 공인기관에서 검증받아 조달시장 진입 기반 마련</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">R&D 결과물의 성능을 공인기관에서 검증받아 조달시장 진입 기반 마련
+                        </p>
                     </div>
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
@@ -176,8 +181,10 @@ include_once(G5_PATH . '/head.php');
                                 정부 R&D 사업공고 검토 및 적합 사업 선정
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -188,8 +195,10 @@ include_once(G5_PATH . '/head.php');
                                 연구개발계획서 작성 지도 (기업 자체 작성)
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -200,8 +209,10 @@ include_once(G5_PATH . '/head.php');
                                 온라인 접수 및 평가심사
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -222,9 +233,11 @@ include_once(G5_PATH . '/head.php');
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">2. 세제 혜택</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">R&D 비용 세액공제 (최대 25%)</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">3. 공공조달 시장 진출</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">NET·NEP 인증 → 혁신제품 지정 → 조달우수제품 등록을 통한 공공기관 납품 기회 확보</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">NET·NEP 인증 → 혁신제품 지정 → 조달우수제품 등록을 통한
+                            공공기관 납품 기회 확보</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">4. 수의계약 및 우선구매</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">혁신제품 지정 시 공공기관 수의계약 가능, 조달우수제품 20% 의무구매 대상</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">혁신제품 지정 시 공공기관 수의계약 가능, 조달우수제품 20%
+                            의무구매 대상</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">5. 기술보증 및 IP 지원</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">기술보증기금 우대 보증, 지식재산권 출원 비용 지원</p>
                     </div>
@@ -242,8 +255,10 @@ include_once(G5_PATH . '/head.php');
                                 사업화 가능성 분석
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -255,8 +270,10 @@ include_once(G5_PATH . '/head.php');
                                 R&D 사업 발굴 및 안내
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -268,8 +285,10 @@ include_once(G5_PATH . '/head.php');
                                 코칭 및 검토
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -291,8 +310,10 @@ include_once(G5_PATH . '/head.php');
                                 관리 관련 컨설팅
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -304,8 +325,10 @@ include_once(G5_PATH . '/head.php');
                                 신제품 인증 지원
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1525,7 +1548,8 @@ include_once(G5_PATH . '/head.php');
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">인증개요</p>
                         <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">
-                            <strong>혁신제품 지정 제도</strong>는 혁신성장 및 사회문제 해결에 기여할 수 있는 기술·서비스 등이 구현된 제품을 조달청장이 지정하여 공공조달 시장 진입을 지원하는 제도입니다.
+                            <strong>혁신제품 지정 제도</strong>는 혁신성장 및 사회문제 해결에 기여할 수 있는 기술·서비스 등이 구현된 제품을 조달청장이 지정하여 공공조달 시장
+                            진입을 지원하는 제도입니다.
                             혁신제품으로 지정되면 조달청 나라장터를 통해 수의계약이 가능하며, 공공기관의 혁신제품 의무구매 대상이 됩니다.
                         </p>
                     </div>
@@ -1553,8 +1577,10 @@ include_once(G5_PATH . '/head.php');
                                 조달청 혁신장터<br>온라인 신청
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1563,8 +1589,10 @@ include_once(G5_PATH . '/head.php');
                                 전문기관 기술심사<br>및 혁신성 평가
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1573,8 +1601,10 @@ include_once(G5_PATH . '/head.php');
                                 혁신제품 지정<br>심의위원회 심의
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1591,10 +1621,14 @@ include_once(G5_PATH . '/head.php');
                     <div class="">
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 17L12 22L22 17" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 12L12 17L22 12" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M2 17L12 22L22 17" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M2 12L12 17L22 12" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -1608,9 +1642,14 @@ include_once(G5_PATH . '/head.php');
                         </div>
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M22 11.08V12C21.9988 14.1564 21.3005 16.2547 20.0093 17.9818C18.7182 19.709 16.9033 20.9725 14.8354 21.5839C12.7674 22.1953 10.5573 22.1219 8.53447 21.3746C6.51168 20.6273 4.78465 19.2461 3.61096 17.4371C2.43727 15.628 1.87979 13.4881 2.02168 11.3363C2.16356 9.18455 2.99721 7.13631 4.39828 5.49706C5.79935 3.85781 7.69279 2.71537 9.79619 2.24013C11.8996 1.7649 14.1003 1.98232 16.07 2.85999" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M22 4L12 14.01L9 11.01" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M22 11.08V12C21.9988 14.1564 21.3005 16.2547 20.0093 17.9818C18.7182 19.709 16.9033 20.9725 14.8354 21.5839C12.7674 22.1953 10.5573 22.1219 8.53447 21.3746C6.51168 20.6273 4.78465 19.2461 3.61096 17.4371C2.43727 15.628 1.87979 13.4881 2.02168 11.3363C2.16356 9.18455 2.99721 7.13631 4.39828 5.49706C5.79935 3.85781 7.69279 2.71537 9.79619 2.24013C11.8996 1.7649 14.1003 1.98232 16.07 2.85999"
+                                        stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M22 4L12 14.01L9 11.01" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -1624,15 +1663,24 @@ include_once(G5_PATH . '/head.php');
                         </div>
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 2V6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M12 18V22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M4.93 4.93L7.76 7.76" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M16.24 16.24L19.07 19.07" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 12H6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M18 12H22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M4.93 19.07L7.76 16.24" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M16.24 7.76L19.07 4.93" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2V6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M12 18V22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M4.93 4.93L7.76 7.76" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M16.24 16.24L19.07 19.07" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M2 12H6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M18 12H22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M4.93 19.07L7.76 16.24" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M16.24 7.76L19.07 4.93" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -1656,8 +1704,10 @@ include_once(G5_PATH . '/head.php');
                                 보유 기술/제품<br>혁신성 적합 평가
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1666,8 +1716,10 @@ include_once(G5_PATH . '/head.php');
                                 특허, 인증서 등<br>증빙자료 정비
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1676,8 +1728,10 @@ include_once(G5_PATH . '/head.php');
                                 제품설명서 및<br>혁신성 증명 작성
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1693,8 +1747,10 @@ include_once(G5_PATH . '/head.php');
                                 심의위원회<br>발표 자료 준비
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1723,7 +1779,8 @@ include_once(G5_PATH . '/head.php');
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">제도 개요</p>
                         <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">
-                            <strong>MAS (Multiple Award Schedule, 다수공급자계약)</strong>는 조달청이 일정한 규격·품질을 충족하는 다수의 공급자와 단가계약을 체결하여,
+                            <strong>MAS (Multiple Award Schedule, 다수공급자계약)</strong>는 조달청이 일정한 규격·품질을 충족하는 다수의 공급자와 단가계약을
+                            체결하여,
                             수요기관이 이들 중에서 자유롭게 선택하여 구매할 수 있도록 하는 제도입니다.
                             경쟁입찰 방식으로 공급자를 선정하며, 계약 체결 후에는 나라장터를 통해 즉시 판매가 가능합니다.
                         </p>
@@ -1752,8 +1809,10 @@ include_once(G5_PATH . '/head.php');
                                 나라장터 MAS<br>입찰 공고 검색
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1762,8 +1821,10 @@ include_once(G5_PATH . '/head.php');
                                 적격심사 서류<br>제출 및 가격 입찰
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1772,8 +1833,10 @@ include_once(G5_PATH . '/head.php');
                                 경영상태, 이행능력<br>기술능력 평가
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1790,10 +1853,14 @@ include_once(G5_PATH . '/head.php');
                     <div class="">
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 17L12 22L22 17" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 12L12 17L22 12" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M2 17L12 22L22 17" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M2 12L12 17L22 12" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -1807,9 +1874,14 @@ include_once(G5_PATH . '/head.php');
                         </div>
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M22 11.08V12C21.9988 14.1564 21.3005 16.2547 20.0093 17.9818C18.7182 19.709 16.9033 20.9725 14.8354 21.5839C12.7674 22.1953 10.5573 22.1219 8.53447 21.3746C6.51168 20.6273 4.78465 19.2461 3.61096 17.4371C2.43727 15.628 1.87979 13.4881 2.02168 11.3363C2.16356 9.18455 2.99721 7.13631 4.39828 5.49706C5.79935 3.85781 7.69279 2.71537 9.79619 2.24013C11.8996 1.7649 14.1003 1.98232 16.07 2.85999" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M22 4L12 14.01L9 11.01" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M22 11.08V12C21.9988 14.1564 21.3005 16.2547 20.0093 17.9818C18.7182 19.709 16.9033 20.9725 14.8354 21.5839C12.7674 22.1953 10.5573 22.1219 8.53447 21.3746C6.51168 20.6273 4.78465 19.2461 3.61096 17.4371C2.43727 15.628 1.87979 13.4881 2.02168 11.3363C2.16356 9.18455 2.99721 7.13631 4.39828 5.49706C5.79935 3.85781 7.69279 2.71537 9.79619 2.24013C11.8996 1.7649 14.1003 1.98232 16.07 2.85999"
+                                        stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M22 4L12 14.01L9 11.01" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -1823,15 +1895,24 @@ include_once(G5_PATH . '/head.php');
                         </div>
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 2V6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M12 18V22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M4.93 4.93L7.76 7.76" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M16.24 16.24L19.07 19.07" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 12H6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M18 12H22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M4.93 19.07L7.76 16.24" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M16.24 7.76L19.07 4.93" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2V6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M12 18V22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M4.93 4.93L7.76 7.76" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M16.24 16.24L19.07 19.07" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M2 12H6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M18 12H22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M4.93 19.07L7.76 16.24" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M16.24 7.76L19.07 4.93" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -1855,8 +1936,10 @@ include_once(G5_PATH . '/head.php');
                                 적합 MAS 품목<br>선정 및 분석
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1865,8 +1948,10 @@ include_once(G5_PATH . '/head.php');
                                 신용등급 관리<br>필수 인증 확보
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1875,8 +1960,10 @@ include_once(G5_PATH . '/head.php');
                                 적격심사 자료<br>및 가격산정
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1892,8 +1979,10 @@ include_once(G5_PATH . '/head.php');
                                 단가계약 및<br>쇼핑몰 등록
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1952,8 +2041,10 @@ include_once(G5_PATH . '/head.php');
                                 벤처/이노비즈 등<br>인증 보유 확인
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1962,8 +2053,10 @@ include_once(G5_PATH . '/head.php');
                                 벤처나라 시스템<br>온라인 등록 신청
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1972,8 +2065,10 @@ include_once(G5_PATH . '/head.php');
                                 제품정보 및<br>자격서류 검토
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -1990,10 +2085,14 @@ include_once(G5_PATH . '/head.php');
                     <div class="">
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 17L12 22L22 17" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 12L12 17L22 12" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M2 17L12 22L22 17" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M2 12L12 17L22 12" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -2007,9 +2106,14 @@ include_once(G5_PATH . '/head.php');
                         </div>
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M22 11.08V12C21.9988 14.1564 21.3005 16.2547 20.0093 17.9818C18.7182 19.709 16.9033 20.9725 14.8354 21.5839C12.7674 22.1953 10.5573 22.1219 8.53447 21.3746C6.51168 20.6273 4.78465 19.2461 3.61096 17.4371C2.43727 15.628 1.87979 13.4881 2.02168 11.3363C2.16356 9.18455 2.99721 7.13631 4.39828 5.49706C5.79935 3.85781 7.69279 2.71537 9.79619 2.24013C11.8996 1.7649 14.1003 1.98232 16.07 2.85999" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M22 4L12 14.01L9 11.01" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M22 11.08V12C21.9988 14.1564 21.3005 16.2547 20.0093 17.9818C18.7182 19.709 16.9033 20.9725 14.8354 21.5839C12.7674 22.1953 10.5573 22.1219 8.53447 21.3746C6.51168 20.6273 4.78465 19.2461 3.61096 17.4371C2.43727 15.628 1.87979 13.4881 2.02168 11.3363C2.16356 9.18455 2.99721 7.13631 4.39828 5.49706C5.79935 3.85781 7.69279 2.71537 9.79619 2.24013C11.8996 1.7649 14.1003 1.98232 16.07 2.85999"
+                                        stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M22 4L12 14.01L9 11.01" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -2023,15 +2127,24 @@ include_once(G5_PATH . '/head.php');
                         </div>
                         <div class="flex gap-4 mb-6">
                             <div class="w-12 h-12 flex-none">
-                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 2V6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M12 18V22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M4.93 4.93L7.76 7.76" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M16.24 16.24L19.07 19.07" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M2 12H6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M18 12H22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M4.93 19.07L7.76 16.24" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                    <path d="M16.24 7.76L19.07 4.93" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2V6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M12 18V22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M4.93 4.93L7.76 7.76" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M16.24 16.24L19.07 19.07" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M2 12H6" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M18 12H22" stroke="#0B3FC4" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                    <path d="M4.93 19.07L7.76 16.24" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                    <path d="M16.24 7.76L19.07 4.93" stroke="#0B3FC4" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>
                             </div>
                             <div>
@@ -2055,8 +2168,10 @@ include_once(G5_PATH . '/head.php');
                                 벤처/이노비즈 등<br>인증 현황 확인
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2065,8 +2180,10 @@ include_once(G5_PATH . '/head.php');
                                 미보유 시<br>벤처인증 지원
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2075,8 +2192,10 @@ include_once(G5_PATH . '/head.php');
                                 제품정보 작성<br>및 가격 책정
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2092,8 +2211,10 @@ include_once(G5_PATH . '/head.php');
                                 공공기관 대상<br>영업 전략 수립
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2140,7 +2261,8 @@ include_once(G5_PATH . '/head.php');
                     <h2 class="mt-0 mb-4 text-2xl font-bold subtitle01 w-full md:w-1/5">지원사업 종류</h2>
                     <div class="">
                         <p class="text-2xl text-black whitespace-pre-line font-bold">1. 정부 R&D 과제 기획</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">중소기업 기술개발사업, 산업기술혁신사업 등 정부 R&D 과제 발굴 및 기획</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">중소기업 기술개발사업, 산업기술혁신사업 등 정부 R&D 과제 발굴 및
+                            기획</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">2. 기술 로드맵(TRM) 수립</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">기업 맞춤형 중장기 기술개발 로드맵 수립 지원</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">3. R&D 과제 관리 자문</p>
@@ -2161,8 +2283,10 @@ include_once(G5_PATH . '/head.php');
                                 기술 수준 진단 및 역량 분석
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2173,8 +2297,10 @@ include_once(G5_PATH . '/head.php');
                                 기술 로드맵 및 R&D 전략 수립
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2185,8 +2311,10 @@ include_once(G5_PATH . '/head.php');
                                 적합 정부 R&D 사업 매칭
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2227,8 +2355,10 @@ include_once(G5_PATH . '/head.php');
                                 기술 수준 진단
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2240,8 +2370,10 @@ include_once(G5_PATH . '/head.php');
                                 사업계획서 작성 코칭
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2253,8 +2385,10 @@ include_once(G5_PATH . '/head.php');
                                 성과관리 지원
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2279,11 +2413,13 @@ include_once(G5_PATH . '/head.php');
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
                     <h2 class="mt-0 text-2xl font-bold subtitle01 w-full md:w-1/5">
-                        <img src="../../img/tech_transfer_logo.svg" alt="기술이전·특허 로고" style="width: 152px; height: 152px;">
+                        <img src="../../img/tech_transfer_logo.svg" alt="기술이전·특허 로고"
+                            style="width: 152px; height: 152px;">
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
-                        <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">목적 : 대학·연구기관 보유 기술의 이전, 특허 확보, 인증 획득까지
+                        <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">목적 : 대학·연구기관 보유 기술의 이전, 특허 확보, 인증
+                            획득까지
                             원스톱으로 지원하여 기술의 사업화 성공률을 높이고 조달시장 진출을 지원합니다.</p>
                     </div>
                 </div>
@@ -2295,7 +2431,8 @@ include_once(G5_PATH . '/head.php');
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">2. 지원 요건</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· 외부 기술 도입을 통한 제품 개발을 추진하는 기업</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· 특허 포트폴리오 강화가 필요한 기업</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· NET·NEP 인증 획득을 통한 조달시장 진출을 희망하는 기업</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· NET·NEP 인증 획득을 통한 조달시장 진출을 희망하는 기업
+                        </p>
                     </div>
                 </div>
                 <div class="relative subTextBoxwrap flex flex-wrap md:flex-nowrap">
@@ -2323,8 +2460,10 @@ include_once(G5_PATH . '/head.php');
                                 필요 기술 분석 및 보유기술 탐색
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2335,8 +2474,10 @@ include_once(G5_PATH . '/head.php');
                                 기술이전 계약 체결 및 기술 도입
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2347,8 +2488,10 @@ include_once(G5_PATH . '/head.php');
                                 추가 특허 출원 및 권리화
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2389,8 +2532,10 @@ include_once(G5_PATH . '/head.php');
                                 필요 기술 도출
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2402,8 +2547,10 @@ include_once(G5_PATH . '/head.php');
                                 계약 협상 지원
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2415,8 +2562,10 @@ include_once(G5_PATH . '/head.php');
                                 포트폴리오 구축
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2445,7 +2594,8 @@ include_once(G5_PATH . '/head.php');
                     </h2>
                     <div class="flex content-center flex-wrap">
                         <p class="text-3xl text-black whitespace-pre-line font-bold w-full">서비스 개요</p>
-                        <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">목적 : AI, IoT, 빅데이터, 로봇 등 첨단 기술을 제조 현장에 적용하여
+                        <p class="mt-2 text-2xl text-gray-700 whitespace-pre-line">목적 : AI, IoT, 빅데이터, 로봇 등 첨단 기술을 제조
+                            현장에 적용하여
                             스마트팩토리를 구축하고, 생산성 향상과 품질 개선을 통해 제조 경쟁력을 강화합니다.</p>
                     </div>
                 </div>
@@ -2456,7 +2606,8 @@ include_once(G5_PATH . '/head.php');
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">제조업 영위 중소·중견기업</p>
                         <p class="mt-4 text-2xl text-black whitespace-pre-line font-bold">2. 지원 요건</p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· 스마트팩토리 도입 의지가 있는 제조기업</p>
-                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· AI, 자동화 기술 융합을 통한 생산성 향상을 추진하는 기업</p>
+                        <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· AI, 자동화 기술 융합을 통한 생산성 향상을 추진하는 기업
+                        </p>
                         <p class="mt-2 text-xl text-gray-700 whitespace-pre-line">· 정부 스마트공장 지원사업 참여 희망 기업</p>
                     </div>
                 </div>
@@ -2485,8 +2636,10 @@ include_once(G5_PATH . '/head.php');
                                 스마트공장 지원사업 공고 검토
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2497,8 +2650,10 @@ include_once(G5_PATH . '/head.php');
                                 온라인 신청 및 서류 제출
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2509,8 +2664,10 @@ include_once(G5_PATH . '/head.php');
                                 심사 후 협약 체결
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2551,8 +2708,10 @@ include_once(G5_PATH . '/head.php');
                                 스마트화 수준 진단
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2564,8 +2723,10 @@ include_once(G5_PATH . '/head.php');
                                 단계별 전략 수립
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2577,8 +2738,10 @@ include_once(G5_PATH . '/head.php');
                                 발굴 및 안내
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2600,8 +2763,10 @@ include_once(G5_PATH . '/head.php');
                                 비교 및 선정 지원
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2613,8 +2778,10 @@ include_once(G5_PATH . '/head.php');
                                 과정 모니터링
                             </li>
                             <span style="align-items: center; display:flex">
-                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F" stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <svg width="7" height="11" viewBox="0 0 7 11" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.18359 9.56666L5.48548 5.26478L1.18359 0.962891" stroke="#4F4F4F"
+                                        stroke-width="1.43396" stroke-linecap="round" stroke-linejoin="round"></path>
                                 </svg>
                             </span>
                             <li class="w-1/4" style="font-weight: 400; color:#4F4F4F">
@@ -2638,16 +2805,55 @@ include_once(G5_PATH . '/head.php');
 include_once(G5_PATH . '/tail.php');
 ?>
 <script>
-    // .egBtnWrap span img 클릭 시 .page_tab으로 스크롤 이동
-    $('.egBtnWrap span img').on('click', function () {
-        const headerHeight = 6 * 16; // 6rem을 픽셀 값으로 변환 (1rem = 16px로 가정)
-        gsap.to(window, {
-            scrollTo: {
-                y: ".page_tab", // 스크롤 타겟 요소
-                offsetY: headerHeight // 헤더 높이만큼 오프셋 추가
-            },
-            duration: 1, // 스크롤 애니메이션 지속 시간
-            ease: "power2.inOut" // 부드러운 스크롤 효과 적용
+    document.addEventListener("DOMContentLoaded", function () {
+        // .egBtnWrap span img 클릭 시 .page_tab으로 스크롤 이동
+        const btnImages = document.querySelectorAll('.egBtnWrap span img');
+        const pageTab = document.querySelector('.page_tab');
+
+        btnImages.forEach(img => {
+            img.addEventListener('click', function () {
+                const headerHeight = 6 * 16; // 6rem을 픽셀로 변환
+                if (pageTab) {
+                    gsap.to(window, {
+                        duration: 1,
+                        scrollTo: { y: pageTab, offsetY: headerHeight },
+                        ease: "power2.inOut"
+                    });
+                }
+            });
+        });
+
+        // 탭 메뉴 기능 구현
+        const tabs = document.querySelectorAll('.page_tab span');
+        const tabContents = document.querySelectorAll('.tabItems');
+
+        // 초기화: 첫 번째 탭만 활성화
+        tabContents.forEach((content, index) => {
+            if (index === 0) {
+                content.style.display = 'block';
+                content.classList.add('tabActive');
+            } else {
+                content.style.display = 'none';
+                content.classList.remove('tabActive');
+            }
+        });
+
+        tabs.forEach((tab, index) => {
+            tab.addEventListener('click', function () {
+                // 모든 탭 비활성화
+                tabs.forEach(t => t.classList.remove('active'));
+                tabContents.forEach(c => {
+                    c.style.display = 'none';
+                    c.classList.remove('tabActive');
+                });
+
+                // 선택된 탭 활성화
+                this.classList.add('active');
+                if (tabContents[index]) {
+                    tabContents[index].style.display = 'block';
+                    tabContents[index].classList.add('tabActive');
+                }
+            });
         });
     });
 </script>
