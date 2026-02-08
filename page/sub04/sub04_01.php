@@ -9,7 +9,7 @@ include_once(G5_PATH . '/head.php');
 
 <section class="ppbSpWrap py-10">
     <div class="container mx-auto px-6">
-        <h2 class="text-4xl font-bold text-center">(주) 한미유압기계는 ESG 경영 실천 의지를 담아 ESG 경영체계를 강화해 나가겠습니다.</h2>
+        <h2 class="text-4xl font-bold text-center">(주) 케이비즈업은 ESG 경영 실천 의지를 담아 ESG 경영체계를 강화해 나가겠습니다.</h2>
 
         <!-- 첫 번째 섹션 -->
         <div class="flex flex-col md:flex-row mb-12 mt-16 md:gap-16">
@@ -18,11 +18,13 @@ include_once(G5_PATH . '/head.php');
             </div>
             <div class="md:w-1/2 flex items-center md:justify-center">
                 <div class="p-8">
-                    <p class="text-base mt-8">대한민국의 경제성장 그리고 EU공급망실사법 시행에 맞추어 기업의 사회적 책임을 필요로 하는 새로운 경영을 필요로 하는 시대입니다. <br><br>
+                    <p class="text-base mt-8">대한민국의 경제성장 그리고 EU공급망실사법 시행에 맞추어 기업의 사회적 책임을 필요로 하는 새로운 경영을 필요로 하는 시대입니다.
+                        <br><br>
 
-                        글로벌 ESG경영 요구수준까지 회사 경영 방식을 마련하고자 한미유압기계는 대한민국 동반성장위원회와 HD현대중공업그룹이 함께 주최하는 ESG경영 컨설팅 대상업체로 선정되어 2023년 5월부터 12월까지 컨설팅 및 교육받아 동반성장위원회로부터 글로벌 수준의 ESG 우수 중소기업임을 인증하는 확인서를 획득하였습니다. <br><br>
+                        케이비즈업은 ESG 경영을 기업의 핵심 가치로 삼고, 지속 가능한 성장을 추구하며 투명하고 윤리적인 경영을 실천합니다. 고객과 주주, 지역사회 등 모든 이해관계자와 함께
+                        성장하며 사회적 책임을 다하는 기업이 되겠습니다. <br><br>
 
-                        EGS경영을 실질적으로 발전시키기 위해 한미유압기계의 모든 임직원이 앞으로도 더욱더 노력할 것 입니다.</p>
+                        ESG 경영을 실질적으로 발전시키기 위해 케이비즈업의 모든 임직원이 앞으로도 더욱더 노력할 것입니다.</p>
                 </div>
             </div>
         </div>

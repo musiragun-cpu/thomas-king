@@ -116,6 +116,21 @@ function get_text($str)
     return $str;
 }
 
+
+// Mock Functions for tail.sub.php
+function html_end()
+{
+    return "";
+}
+function check_device($device)
+{
+    return "";
+}
+function get_device_change_url()
+{
+    return "";
+}
+
 // For head.sub.php
 $g5_head_title = "K-BizUp";
 ?>

@@ -1,5 +1,6 @@
 <?php
-if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
+if (!defined('_GNUBOARD_'))
+    exit; // 개별 페이지 접근 불가
 
 run_event('pre_head');
 
@@ -31,6 +32,8 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
     $class_name = 'bg-sub01-01-1';
 } elseif (strpos($current_path, '/sub01/sub01_03.php') !== false) {
     $class_name = 'bg-sub01-01-1';
+} elseif (strpos($current_path, '/sub01/sub01_04.php') !== false) {
+    $class_name = 'bg-sub01-01-1';
 } elseif (strpos($current_path, '/sub02/sub02_01.php') !== false) {
     $class_name = 'bg-sub02-01';
 } elseif (strpos($current_path, '/sub02/sub02_02.php') !== false) {
@@ -61,11 +64,13 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
     $class_name = 'bg-sub04-01';
 } elseif (strpos($current_path, '/page/sub05/sub05_01.php') !== false) {
     $class_name = 'bg-sub05-01';
-} elseif (strpos($current_path, '/news') !== false) {
+} elseif (strpos($current_path, '/page/support/news.php') !== false) {
     $class_name = 'bg-sub03-01';
 } elseif (strpos($current_path, '/notice') !== false) {
     $class_name = 'bg-sub03-01';
-} elseif (strpos($current_path, '/bbs/faq.php') !== false) {
+} elseif (strpos($current_path, '/page/support/faq.php') !== false) {
+    $class_name = 'bg-sub03-01';
+} elseif (strpos($current_path, '/page/support/inquiry.php') !== false) {
     $class_name = 'bg-sub03-01';
 } elseif (strpos($current_path, '/channel/write') !== false) {
     $class_name = 'bg-sub04-01';
@@ -108,7 +113,7 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
         </div>
 
         <h1 class="main_logo">
-            <a href="<?php echo G5_URL; ?>">
+            <a href="/">
                 <img class="basicLogo" src="<?php echo G5_IMG_URL; ?>/logo.png" alt="logo">
                 <img class="whiteLogo" src="<?php echo G5_IMG_URL; ?>/wLogo02.png" alt="wlogo">
             </a>
@@ -125,6 +130,7 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                         <li><a href="/page/sub01/sub01_01.php">기업소개</a></li>
                         <li><a href="/page/sub01/sub01_02.php">컨설턴트 프로필</a></li>
                         <li><a href="/page/sub01/sub01_03.php">오시는 길</a></li>
+                        <li><a href="/page/sub01/sub01_04.php">컨설팅 실적</a></li>
                     </ul>
                 </li>
 
@@ -139,14 +145,27 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                     </ul>
                 </li>
 
+                <!-- ESG 경영 -->
+                <li class="gnb__item">
+                    <a href="/page/sub04/sub04_01.php">ESG 경영</a>
+                    <ul class="gnb__sub">
+                        <li><a href="/page/sub04/sub04_01.php">ESG 경영</a></li>
+                        <li><a href="/page/sub04/sub04_02.php">윤리경영</a></li>
+                        <li><a href="/page/sub04/sub04_05.php">인권경영</a></li>
+                        <li><a href="/page/sub04/sub04_03.php">환경경영</a></li>
+                        <li><a href="/page/sub04/sub04_04.php">안전보건경영</a></li>
+                        <li><a href="/page/sub04/sub04_06.php">사회공헌</a></li>
+                    </ul>
+                </li>
+
                 <!-- 고객지원 -->
                 <li class="gnb__item">
-                    <a href="/notice">고객지원</a>
+                    <a href="/page/support/notice.php">고객지원</a>
                     <ul class="gnb__sub">
-                        <li><a href="/notice">공지사항</a></li>
-                        <li><a href="/bbs/faq.php">Q&A</a></li>
-                        <!-- <li><a href="/page/support/inquiry.php">문의하기</a></li> -->
-                        <li><a href="/news">케이비즈업 뉴스</a></li>
+                        <li><a href="/page/support/notice.php">공지사항</a></li>
+                        <li><a href="/page/support/faq.php">Q&A</a></li>
+                        <li><a href="/page/support/inquiry.php">문의하기</a></li>
+                        <li><a href="/page/support/news.php">케이비즈업 뉴스</a></li>
                     </ul>
                 </li>
 
@@ -191,6 +210,7 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                     <a href="/page/sub01/sub01_01.php">기업소개</a>
                     <a href="/page/sub01/sub01_02.php">컨설턴트 프로필</a>
                     <a href="/page/sub01/sub01_03.php">오시는 길</a>
+                    <a href="/page/sub01/sub01_04.php">컨설팅 실적</a>
                 </div>
             </div>
 
@@ -207,12 +227,24 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
             </div>
 
             <div class="mb-16">
+                <h2 class="text-xl md:text-3xl font-bold mb-3">ESG 경영</h2>
+                <div class="grid grid-cols-2 gap-3 text-primary text-lg md:text-2xl w-2/3">
+                    <a href="/page/sub04/sub04_01.php">ESG 경영</a>
+                    <a href="/page/sub04/sub04_02.php">윤리경영</a>
+                    <a href="/page/sub04/sub04_05.php">인권경영</a>
+                    <a href="/page/sub04/sub04_03.php">환경경영</a>
+                    <a href="/page/sub04/sub04_04.php">안전보건경영</a>
+                    <a href="/page/sub04/sub04_06.php">사회공헌</a>
+                </div>
+            </div>
+
+            <div class="mb-16">
                 <h2 class="text-xl md:text-3xl font-bold mb-3">고객지원</h2>
                 <div class="grid grid-cols-2 gap-3 text-primary text-lg md:text-2xl w-2/3">
-                    <a href="/notice">공지사항</a>
-                    <a href="/bbs/faq.php">Q&A</a>
-                    <!-- <a href="/page/support/inquiry.php">문의하기</a> -->
-                    <a href="/news">케이비즈업 뉴스</a>
+                    <a href="/page/support/notice.php">공지사항</a>
+                    <a href="/page/support/faq.php">Q&A</a>
+                    <a href="/page/support/inquiry.php">문의하기</a>
+                    <a href="/page/support/news.php">케이비즈업 뉴스</a>
                 </div>
             </div>
         </nav>
@@ -235,8 +267,10 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
 <div class="quick-menu">
     <div class="menu-item topBtn">
         <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M16 25.3566V6.68994" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
-            <path d="M6.66602 16.0233L15.9993 6.68994L25.3327 16.0233" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M16 25.3566V6.68994" stroke="#111111" stroke-width="2.5" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path d="M6.66602 16.0233L15.9993 6.68994L25.3327 16.0233" stroke="#111111" stroke-width="2.5"
+                stroke-linecap="round" stroke-linejoin="round" />
         </svg>
     </div>
 </div>
@@ -256,6 +290,7 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                             <!--<option value="" disabled selected></option>-->
                             <option value="회사소개">회사소개</option>
                             <option value="컨설팅 분야">컨설팅 분야</option>
+                            <option value="ESG 경영">ESG 경영</option>
                             <option value="고객지원">고객지원</option>
                         </select>
                         <a href="javascript:void(0)" class="home_btn"></a>
@@ -272,54 +307,89 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
             <script>
                 const menuData = {
                     "회사소개": [{
-                            text: "기업소개",
-                            url: "/page/sub01/sub01_01.php"
-                        },
-                        {
-                            text: "컨설턴트 프로필",
-                            url: "/page/sub01/sub01_02.php"
-                        },
+                        text: "기업소개",
+                        url: "/page/sub01/sub01_01.php"
+                    },
+                    {
+                        text: "컨설턴트 프로필",
+                        url: "/page/sub01/sub01_02.php"
+                    },
 
-                        {
-                            text: "오시는 길",
-                            url: "/page/sub01/sub01_03.php"
-                        }
+                    {
+                        text: "오시는 길",
+                        text: "오시는 길",
+                        url: "/page/sub01/sub01_03.php"
+                    },
+                    {
+                        text: "컨설팅 실적",
+                        url: "/page/sub01/sub01_04.php"
+                    }
                     ],
 
                     "컨설팅 분야": [{
-                            text: "정부조달 및 R&D",
-                            url: "/page/sub02/sub02_01.php"
-                        },
-                        {
-                            text: "기술·경영",
-                            url: "/page/sub02/sub02_02.php"
-                        },
-                        {
-                            text: "창업 및 소상공인 지원",
-                            url: "/page/sub02/sub02_03.php"
-                        },
-                        {
-                            text: "인증",
-                            url: "/page/sub02/sub02_04.php"
-                        }
+                        text: "정부조달 및 R&D",
+                        url: "/page/sub02/sub02_01.php"
+                    },
+                    {
+                        text: "기술·경영",
+                        url: "/page/sub02/sub02_02.php"
+                    },
+                    {
+                        text: "창업 및 소상공인 지원",
+                        url: "/page/sub02/sub02_03.php"
+                    },
+                    {
+                        text: "인증",
+                        url: "/page/sub02/sub02_04.php"
+                    },
+                    {
+                        text: "인증",
+                        url: "/page/sub02/sub02_04.php"
+                    }
+                    ],
+
+                    "ESG 경영": [{
+                        text: "ESG 경영",
+                        url: "/page/sub04/sub04_01.php"
+                    },
+                    {
+                        text: "윤리경영",
+                        url: "/page/sub04/sub04_02.php"
+                    },
+                    {
+                        text: "인권경영",
+                        url: "/page/sub04/sub04_05.php"
+                    },
+                    {
+                        text: "환경경영",
+                        url: "/page/sub04/sub04_03.php"
+                    },
+                    {
+                        text: "안전보건경영",
+                        url: "/page/sub04/sub04_04.php"
+                    },
+                    {
+                        text: "사회공헌",
+                        url: "/page/sub04/sub04_06.php"
+                    }
                     ],
 
                     "고객지원": [{
-                            text: "공지사항",
-                            url: "notice"
-                        },
-                        {
-                            text: "Q&A",
-                            url: "/bbs/faq.php"
-                        },
-                        // {
-                        //     text: "문의하기",
-                        //     url: "/page/support/inquiry.php"
-                        // },
-                        {
-                            text: "케이비즈업 뉴스",
-                            url: "/news"
-                        }
+                        text: "공지사항",
+                        url: "/page/support/notice.php"
+                    },
+                    {
+                        text: "Q&A",
+                        url: "/page/support/faq.php"
+                    },
+                    {
+                        text: "문의하기",
+                        url: "/page/support/inquiry.php"
+                    },
+                    {
+                        text: "케이비즈업 뉴스",
+                        url: "/page/support/news.php"
+                    }
                     ]
                 };
 
@@ -342,7 +412,7 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                 }
 
                 // primaryMenu에서 옵션이 선택될 때만 첫 번째 페이지로 이동
-                document.getElementById("primaryMenu").addEventListener("change", function() {
+                document.getElementById("primaryMenu").addEventListener("change", function () {
                     updateSecondaryMenu();
                     const secondaryMenu = document.getElementById("secondaryMenu");
                     const firstOption = secondaryMenu.options[0];
@@ -392,22 +462,22 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                 window.onload = setInitialSelection;
             </script>
             <script>
-                $('.menuToggle02').click(function() {
+                $('.menuToggle02').click(function () {
                     $('.menuToggle02').toggleClass('menuToggleActive');
                     $('.menubtn').toggleClass('menuBtnFixed');
                     $('.menuToggle02').siblings('.sub_gnb2').toggleClass('menuShow')
                 })
-                $(document).ready(function() {
-                    $('.menubtn').click(function() {
+                $(document).ready(function () {
+                    $('.menubtn').click(function () {
                         $('#moTab').css('display', 'flex'); // 먼저 display: flex 적용
-                        setTimeout(function() {
+                        setTimeout(function () {
                             $('#moTab').addClass('show'); // opacity 애니메이션 적용
                         }, 10);
                     });
 
-                    $('.moTabClose').click(function() {
+                    $('.moTabClose').click(function () {
                         $('#moTab').removeClass('show'); // opacity 먼저 제거
-                        setTimeout(function() {
+                        setTimeout(function () {
                             $('#moTab').css('display', 'none'); // 애니메이션 후 display: none 적용
                         }, 300); // transition 시간과 동일하게 설정
                     });
@@ -415,17 +485,17 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
 
 
 
-                $('.all-menu__depth > li > a').mouseenter(function() {
+                $('.all-menu__depth > li > a').mouseenter(function () {
                     $('.all-menu__subdepth').removeClass('active');
                     $(this).siblings('.all-menu__subdepth').addClass('active');
                 })
 
-                $('.all-menu__box').mouseleave(function() {
+                $('.all-menu__box').mouseleave(function () {
                     $(this).siblings('.all-menu__subdepth').removeClass('active');
                 })
             </script>
             <script>
-                $(document).ready(function() {
+                $(document).ready(function () {
                     // 현재 페이지의 URL 경로 가져오기
                     var currentPath = window.location.pathname;
 
@@ -444,6 +514,18 @@ if (strpos($current_path, '/sub01/sub01_01.php') !== false) {
                         $('.subTitleAb b').text('창업 및 소상공인 지원');
                     } else if (currentPath.includes("/page/sub02/sub02_04.php")) {
                         $('.subTitleAb b').text('인증');
+                    } else if (currentPath.includes("/page/sub04/sub04_01.php")) {
+                        $('.subTitleAb b').text('ESG 경영');
+                    } else if (currentPath.includes("/page/sub04/sub04_02.php")) {
+                        $('.subTitleAb b').text('윤리경영');
+                    } else if (currentPath.includes("/page/sub04/sub04_03.php")) {
+                        $('.subTitleAb b').text('환경경영');
+                    } else if (currentPath.includes("/page/sub04/sub04_04.php")) {
+                        $('.subTitleAb b').text('안전보건경영');
+                    } else if (currentPath.includes("/page/sub04/sub04_05.php")) {
+                        $('.subTitleAb b').text('인권경영');
+                    } else if (currentPath.includes("/page/sub04/sub04_06.php")) {
+                        $('.subTitleAb b').text('사회공헌');
                     } else if (currentPath.includes("/notice")) {
                         $('.subTitleAb b').text('공지사항');
                     } else if (currentPath.includes("/bbs/faq.php")) {
