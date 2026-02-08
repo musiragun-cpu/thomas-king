@@ -1350,9 +1350,9 @@ include_once(G5_PATH . '/head.php');
 </section>
 
 <script>
-    gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
-
     document.addEventListener('DOMContentLoaded', function () {
+        gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
+
         // 탭 기능
         const tabs = document.querySelectorAll('.page_tab span');
         const tabContents = document.querySelectorAll('.tabItems');

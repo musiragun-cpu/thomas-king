@@ -1167,9 +1167,8 @@ include_once(G5_PATH . '/head.php');
 include_once(G5_PATH . '/tail.php');
 ?>
 <script>
-    gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
-
     document.addEventListener('DOMContentLoaded', function () {
+        gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
         const tabs = document.querySelectorAll('.page_tab span');
         const tabContents = document.querySelectorAll('.tabItems');
         const topButtons = document.querySelectorAll('.egBtnWrap > span');
